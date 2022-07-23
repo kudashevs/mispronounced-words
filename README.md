@@ -27,6 +27,7 @@ email [us /ˈiː.meɪl/ uk /ˈiː.meɪl/](https://dictionary.cambridge.org/us/di
 entrepreneur [us /ˌɑːn.trə.prəˈnɝː/ uk /ˌɒn.trə.prəˈnɜːr/](https://dictionary.cambridge.org/us/dictionary/english/entrepreneur )  
 finder [us /ˈfaɪn.dɚ/ uk /ˈfaɪn.dər/](https://dictionary.cambridge.org/us/dictionary/english/finder)  
 function [us /ˈfʌŋk.ʃən/ uk /ˈfʌŋk.ʃən/](https://dictionary.cambridge.org/us/dictionary/english/function)  
+GIF [us /ɡɪf/ uk /ɡɪf/](https://dictionary.cambridge.org/us/dictionary/english/gif), but actually it is /dʒif/  
 height [us /haɪt/ uk /haɪt/](https://dictionary.cambridge.org/us/dictionary/english/height)  
 hierarchy [us /ˈhaɪ.rɑːr.ki/ uk /ˈhaɪə.rɑː.ki/](https://dictionary.cambridge.org/us/dictionary/english/hierarchy)  
 launch [us /lɑːntʃ/ uk /lɔːntʃ/](https://dictionary.cambridge.org/us/dictionary/english/launch)  

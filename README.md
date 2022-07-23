@@ -38,11 +38,13 @@ process [us /ˈprɑː.ses/ uk /ˈprəʊ.ses/](https://dictionary.cambridge.org/u
 programming [us /ˈproʊ.ɡræm.ɪŋ/ uk /ˈprəʊ.ɡræm.ɪŋ/](https://dictionary.cambridge.org/us/dictionary/english/programming)  
 pseudocode [us /suː.doʊ.koʊd/ uk /sjuː.dəʊ.kəʊd/](https://dictionary.cambridge.org/us/dictionary/english/pseudo)  
 queue [us /kjuː/ uk /kjuː/](https://dictionary.cambridge.org/us/dictionary/english/queue)  
+science [us /ˈsaɪ.əns/ uk /ˈsaɪ.əns/](https://dictionary.cambridge.org/us/dictionary/english/science)  
 scrum [us /skrʌm/ uk /skrʌm/](https://dictionary.cambridge.org/us/dictionary/english/scrum)  
 status [us /ˈsteɪ.t̬əs/ uk /ˈsteɪ.təs/](https://dictionary.cambridge.org/us/dictionary/english/status)  
 tech [us /tek/ uk /tek/](https://dictionary.cambridge.org/us/dictionary/english/tech)  
 technology [us /tekˈnɑː.lə.dʒi/ uk /tekˈnɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/technology)  
 template [us /ˈtem.plət/ uk /ˈtem.pleɪt/](https://dictionary.cambridge.org/us/dictionary/english/template)  
+vulnerable [us /ˈvʌl.nɚ.ə.bəl/ uk /ˈvʌl.nər.ə.bəl/ /ˈvʌn.rə.bəl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable)  
 vulnerability [us /ˌvʌl.nɚ.əˈbɪl.ə.t̬i/ uk /ˌvʌl.nər.əˈbɪl.ə.ti/ /ˌvʌn.rəˈbɪl.ə.ti/](https://dictionary.cambridge.org/us/dictionary/english/vulnerability)  
 WIFI [us /ˈwaɪ.faɪ/ uk /ˈwaɪ.faɪ/](https://dictionary.cambridge.org/us/dictionary/english/wi-fi)  
 

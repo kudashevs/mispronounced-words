@@ -10,7 +10,6 @@ English is not a phonetic language. In phonetic languages there is a direct rela
 and how it is sound. In English, this relationship is not so strong that is why we often don't pronounce a word the same
 way it is spelled. Here IPA comes into play because it was created exactly for representing speech sounds in written form.
 
-
 ## List
 
 | Word | Transcription | Comment |

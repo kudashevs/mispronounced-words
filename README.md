@@ -58,8 +58,8 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | tech | [us /tek/ uk /tek/](https://dictionary.cambridge.org/us/dictionary/english/tech) | |
 | technology | [us /tekˈnɑː.lə.dʒi/ uk /tekˈnɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/technology) | |
 | template | [us /ˈtem.plət/ uk /ˈtem.pleɪt/](https://dictionary.cambridge.org/us/dictionary/english/template) | |
-| vulnerable | [us /ˈvʌl.nɚ.ə.bəl/ uk /ˈvʌl.nər.ə.bəl/ /ˈvʌn.rə.bəl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |
 | vulnerability | [us /ˌvʌl.nɚ.əˈbɪl.ə.t̬i/ uk /ˌvʌl.nər.əˈbɪl.ə.ti/ /ˌvʌn.rəˈbɪl.ə.ti/](https://dictionary.cambridge.org/us/dictionary/english/vulnerability) | |
+| vulnerable | [us /ˈvʌl.nɚ.ə.bəl/ uk /ˈvʌl.nər.ə.bəl/ /ˈvʌn.rə.bəl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |
 | WIFI | [us /ˈwaɪ.faɪ/ uk /ˈwaɪ.faɪ/](https://dictionary.cambridge.org/us/dictionary/english/wi-fi) | |
 
 

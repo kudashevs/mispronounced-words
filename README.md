@@ -15,6 +15,8 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | Word | Transcription | Comment |
 | ---- | ------------- | ------- |
 | algorithm | [us /ˈæl.ɡə.rɪ.ðəm/ uk /ˈæl.ɡə.rɪ.ðəm/](https://dictionary.cambridge.org/us/dictionary/english/algorithm) | |
+| asynchronous | [us /eɪˈsɪŋ.krə.nəs/ uk /eɪˈsɪŋ.krə.nəs/](https://dictionary.cambridge.org/us/dictionary/english/asynchronous) | |
+| augmented | [us /ɑːɡˈment/ uk /ɔːɡˈment/](https://dictionary.cambridge.org/us/dictionary/english/augment) | refers to augmented reality |
 | authentication | [us /ɑːˌθen.t̬əˈkeɪ.ʃən/ uk /ɔːˌθen.tɪˈkeɪ.ʃən/](https://dictionary.cambridge.org/us/dictionary/english/authentication) | |
 | autonomous | [us /ɑːˈtɑː.nə.məs/ uk /ɔːˈtɒn.ə.məs/](https://dictionary.cambridge.org/us/dictionary/english/autonomous) | |
 | binary | [us /ˈbaɪ.ner.i/ uk /ˈbaɪ.nər.i/](https://dictionary.cambridge.org/us/dictionary/english/binary) | |
@@ -27,9 +29,14 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | component |[us /kəmˈpoʊ.nənt/ uk /kəmˈpəʊ.nənt/](https://dictionary.cambridge.org/us/dictionary/english/component) | |
 | computer |[us /kəmˈpjuː.t̬ɚ/ uk /kəmˈpjuː.tər/](https://dictionary.cambridge.org/us/dictionary/english/computer) | |
 | current | [us /ˈkɝː.ənt/ uk /ˈkʌr.ənt/](https://dictionary.cambridge.org/us/dictionary/english/current) | |
+| customer |[us /ˈkʌs.tə.mɚ/ uk /ˈkʌs.tə.mər/](https://dictionary.cambridge.org/us/dictionary/english/customer) | |
 | data | [us /ˈdeɪ.t̬ə/ /dæt̬.ə/ uk /ˈdeɪ.tə/](https://dictionary.cambridge.org/us/dictionary/english/data ) | |
+| data-driven |[us /ˈdeɪ.t̬əˌdrɪv.ən/ uk /ˈdeɪ.təˌdrɪv.ən/](https://dictionary.cambridge.org/us/dictionary/english/data-driven) | |
+| default | [us /dɪˈfɑːlt/ uk /dɪˈfɒlt/ /ˈdiː.fɒlt/](https://dictionary.cambridge.org/us/dictionary/english/default) | |
 | developer | [us /dɪˈvel.ə.pɚ/ uk /dɪˈvel.ə.pər/](https://dictionary.cambridge.org/us/dictionary/english/developer) | |
-| email | [us /ˈiː.meɪl/ uk /ˈiː.meɪl/](https://dictionary.cambridge.org/us/dictionary/english/email)| pay attention to the stress  |
+| -driven | [us /ˈdrɪv.ən/ uk /ˈdrɪv.ən/](https://dictionary.cambridge.org/us/dictionary/english/driven) | |
+| email | [us /ˈiː.meɪl/ uk /ˈiː.meɪl/](https://dictionary.cambridge.org/us/dictionary/english/email)| pay attention to the stress |
+| embedded |[us /ɪmˈbed.ɪd/ uk /ɪmˈbed.ɪd/](https://dictionary.cambridge.org/us/dictionary/english/embedded) | |
 | entrepreneur | [us /ˌɑːn.trə.prəˈnɝː/ uk /ˌɒn.trə.prəˈnɜːr/](https://dictionary.cambridge.org/us/dictionary/english/entrepreneur ) | |
 | fail |[us /feɪl/ uk /feɪl/](https://dictionary.cambridge.org/us/dictionary/english/fail) | |
 | file |[us /faɪl/ uk /faɪl/](https://dictionary.cambridge.org/us/dictionary/english/file) | |
@@ -50,6 +57,7 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | pseudocode | [us /suː.doʊ.koʊd/ uk /sjuː.dəʊ.kəʊd/](https://dictionary.cambridge.org/us/dictionary/english/pseudo) | |
 | queue | [us /kjuː/ uk /kjuː/](https://dictionary.cambridge.org/us/dictionary/english/queue) | |
 | recipe |[us /ˈres.ə.pi/ uk /ˈres.ɪ.pi/](https://dictionary.cambridge.org/us/dictionary/english/recipe) | |
+| retina |[us /ˈret.ən.ə/ uk /ˈret.ɪ.nə/](https://dictionary.cambridge.org/us/dictionary/english/retina) | |
 | router |[us /ˈraʊ.t̬ɚ/ uk /ˈruː.tər/](https://dictionary.cambridge.org/us/dictionary/english/router) | |
 | science | [us /ˈsaɪ.əns/ uk /ˈsaɪ.əns/](https://dictionary.cambridge.org/us/dictionary/english/science) | |
 | scrum | [us /skrʌm/ uk /skrʌm/](https://dictionary.cambridge.org/us/dictionary/english/scrum) | |

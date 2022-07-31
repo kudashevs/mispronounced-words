@@ -21,8 +21,10 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | cache | [us /kæʃ/ uk /kæʃ/](https://dictionary.cambridge.org/us/dictionary/english/cache) | |
 | certificate |[us /sɚˈtɪf.ə.kət/ uk /səˈtɪf.ɪ.kət/](https://dictionary.cambridge.org/us/dictionary/english/certificate) | |
 | chaos | [us /ˈkeɪ.ɑːs/ uk /ˈkeɪ.ɒs/](https://dictionary.cambridge.org/us/dictionary/english/chaos) | |
+| character |[us /ˈker.ək.tɚ/ uk /ˈkær.ək.tər/](https://dictionary.cambridge.org/us/dictionary/english/character) | |
 | code | [us /koʊd/ uk /kəʊd/](https://dictionary.cambridge.org/us/dictionary/english/code) | |
 | coding | [us /koʊd.ɪŋ/ uk /kəʊd.ɪŋ/](https://dictionary.cambridge.org/dictionary/english/coding) | |
+| component |[us /kəmˈpoʊ.nənt/ uk /kəmˈpəʊ.nənt/](https://dictionary.cambridge.org/us/dictionary/english/component) | |
 | computer |[us /kəmˈpjuː.t̬ɚ/ uk /kəmˈpjuː.tər/](https://dictionary.cambridge.org/us/dictionary/english/computer) | |
 | current | [us /ˈkɝː.ənt/ uk /ˈkʌr.ənt/](https://dictionary.cambridge.org/us/dictionary/english/current) | |
 | data | [us /ˈdeɪ.t̬ə/ /dæt̬.ə/ uk /ˈdeɪ.tə/](https://dictionary.cambridge.org/us/dictionary/english/data ) | |
@@ -51,6 +53,7 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | router |[us /ˈraʊ.t̬ɚ/ uk /ˈruː.tər/](https://dictionary.cambridge.org/us/dictionary/english/router) | |
 | science | [us /ˈsaɪ.əns/ uk /ˈsaɪ.əns/](https://dictionary.cambridge.org/us/dictionary/english/science) | |
 | scrum | [us /skrʌm/ uk /skrʌm/](https://dictionary.cambridge.org/us/dictionary/english/scrum) | |
+| software |[us /ˈsɑːft.wer/ uk /ˈsɒft.weər/](https://dictionary.cambridge.org/us/dictionary/english/software) | pay attention to the stress |
 | status | [us /ˈsteɪ.t̬əs/ uk /ˈsteɪ.təs/](https://dictionary.cambridge.org/us/dictionary/english/status) | |
 | tech | [us /tek/ uk /tek/](https://dictionary.cambridge.org/us/dictionary/english/tech) | |
 | technology | [us /tekˈnɑː.lə.dʒi/ uk /tekˈnɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/technology) | |

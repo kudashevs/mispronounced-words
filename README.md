@@ -16,7 +16,8 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 
 | Word | Transcription | Comment |
 | ---- | ------------- | ------- |
-| <a id="A"></a> algorithm | [us /ˈæl.ɡə.rɪ.ðəm/ uk /ˈæl.ɡə.rɪ.ðəm/](https://dictionary.cambridge.org/us/dictionary/english/algorithm) | |
+| <a id="A"></a> adobe | [us /əˈdoʊ.bi/ uk /əˈdəʊ.bi/](https://dictionary.cambridge.org/us/dictionary/english/adobe) | |
+| algorithm | [us /ˈæl.ɡə.rɪ.ðəm/ uk /ˈæl.ɡə.rɪ.ðəm/](https://dictionary.cambridge.org/us/dictionary/english/algorithm) | |
 | asynchronous | [us /eɪˈsɪŋ.krə.nəs/ uk /eɪˈsɪŋ.krə.nəs/](https://dictionary.cambridge.org/us/dictionary/english/asynchronous) | |
 | augmented | [us /ɑːɡˈment/ uk /ɔːɡˈment/](https://dictionary.cambridge.org/us/dictionary/english/augment) | refers to augmented reality |
 | authentication | [us /ɑːˌθen.t̬əˈkeɪ.ʃən/ uk /ɔːˌθen.tɪˈkeɪ.ʃən/](https://dictionary.cambridge.org/us/dictionary/english/authentication) | |
@@ -47,6 +48,7 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | <a id="G"></a> GIF | [us /ɡɪf/ uk /ɡɪf/](https://dictionary.cambridge.org/us/dictionary/english/gif) | but actually it is /dʒif/ |
 | <a id="H"></a> height | [us /haɪt/ uk /haɪt/](https://dictionary.cambridge.org/us/dictionary/english/height) | |
 | hierarchy | [us /ˈhaɪ.rɑːr.ki/ uk /ˈhaɪə.rɑː.ki/](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) | |
+| invoke |[us /ɪnˈvoʊk/ uk /ɪnˈvəʊk/](https://dictionary.cambridge.org/us/dictionary/english/invoke) | |
 | <a id="L"></a> launch | [us /lɑːntʃ/ uk /lɔːntʃ/](https://dictionary.cambridge.org/us/dictionary/english/launch) | |
 | <a id="M"></a> machine | [us /məˈʃiːn/ uk /məˈʃiːn/](https://dictionary.cambridge.org/us/dictionary/english/machine)| pay attention to the stress |
 | meme |[us /miːm/ uk /miːm/](https://dictionary.cambridge.org/us/dictionary/english/meme) | |
@@ -65,6 +67,7 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | scrum | [us /skrʌm/ uk /skrʌm/](https://dictionary.cambridge.org/us/dictionary/english/scrum) | |
 | software |[us /ˈsɑːft.wer/ uk /ˈsɒft.weər/](https://dictionary.cambridge.org/us/dictionary/english/software) | pay attention to the stress |
 | status | [us /ˈsteɪ.t̬əs/ uk /ˈsteɪ.təs/](https://dictionary.cambridge.org/us/dictionary/english/status) | |
+| suite |[us /swiːt/ uk /swiːt/](https://dictionary.cambridge.org/us/dictionary/english/suite) | refers to Adobe suite |
 | <a id="T"></a> tech | [us /tek/ uk /tek/](https://dictionary.cambridge.org/us/dictionary/english/tech) | |
 | technology | [us /tekˈnɑː.lə.dʒi/ uk /tekˈnɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/technology) | |
 | template | [us /ˈtem.plət/ uk /ˈtem.pleɪt/](https://dictionary.cambridge.org/us/dictionary/english/template) | |

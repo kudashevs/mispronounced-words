@@ -26,24 +26,24 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | <a id="C"></a> cache | [us /kæʃ/ uk /kæʃ/](https://dictionary.cambridge.org/us/dictionary/english/cache) | |
 | certificate |[us /sɚˈtɪf.ə.kət/ uk /səˈtɪf.ɪ.kət/](https://dictionary.cambridge.org/us/dictionary/english/certificate) | |
 | chaos | [us /ˈkeɪ.ɑːs/ uk /ˈkeɪ.ɒs/](https://dictionary.cambridge.org/us/dictionary/english/chaos) | |
-| character |[us /ˈker.ək.tɚ/ uk /ˈkær.ək.tər/](https://dictionary.cambridge.org/us/dictionary/english/character) | |
+| character |[us /ˈker.ək.tɚ/ uk /ˈkær.ək.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/character) | |
 | code | [us /koʊd/ uk /kəʊd/](https://dictionary.cambridge.org/us/dictionary/english/code) | |
 | coding | [us /koʊd.ɪŋ/ uk /kəʊd.ɪŋ/](https://dictionary.cambridge.org/dictionary/english/coding) | |
 | component |[us /kəmˈpoʊ.nənt/ uk /kəmˈpəʊ.nənt/](https://dictionary.cambridge.org/us/dictionary/english/component) | |
-| computer |[us /kəmˈpjuː.t̬ɚ/ uk /kəmˈpjuː.tər/](https://dictionary.cambridge.org/us/dictionary/english/computer) | |
+| computer |[us /kəmˈpjuː.t̬ɚ/ uk /kəmˈpjuː.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/computer) | |
 | current | [us /ˈkɝː.ənt/ uk /ˈkʌr.ənt/](https://dictionary.cambridge.org/us/dictionary/english/current) | |
-| customer |[us /ˈkʌs.tə.mɚ/ uk /ˈkʌs.tə.mər/](https://dictionary.cambridge.org/us/dictionary/english/customer) | |
+| customer |[us /ˈkʌs.tə.mɚ/ uk /ˈkʌs.tə.məʳ/](https://dictionary.cambridge.org/us/dictionary/english/customer) | |
 | <a id="D"></a> data | [us /ˈdeɪ.t̬ə/ /dæt̬.ə/ uk /ˈdeɪ.tə/](https://dictionary.cambridge.org/us/dictionary/english/data ) | |
 | data-driven |[us /ˈdeɪ.t̬əˌdrɪv.ən/ uk /ˈdeɪ.təˌdrɪv.ən/](https://dictionary.cambridge.org/us/dictionary/english/data-driven) | |
 | default | [us /dɪˈfɑːlt/ uk /dɪˈfɒlt/ /ˈdiː.fɒlt/](https://dictionary.cambridge.org/us/dictionary/english/default) | |
-| developer | [us /dɪˈvel.ə.pɚ/ uk /dɪˈvel.ə.pər/](https://dictionary.cambridge.org/us/dictionary/english/developer) | |
+| developer | [us /dɪˈvel.ə.pɚ/ uk /dɪˈvel.ə.pəʳ/](https://dictionary.cambridge.org/us/dictionary/english/developer) | |
 | -driven | [us /ˈdrɪv.ən/ uk /ˈdrɪv.ən/](https://dictionary.cambridge.org/us/dictionary/english/driven) | |
 | <a id="E"></a> email | [us /ˈiː.meɪl/ uk /ˈiː.meɪl/](https://dictionary.cambridge.org/us/dictionary/english/email)| pay attention to the stress |
 | embedded |[us /ɪmˈbed.ɪd/ uk /ɪmˈbed.ɪd/](https://dictionary.cambridge.org/us/dictionary/english/embedded) | |
-| entrepreneur | [us /ˌɑːn.trə.prəˈnɝː/ uk /ˌɒn.trə.prəˈnɜːr/](https://dictionary.cambridge.org/us/dictionary/english/entrepreneur ) | |
+| entrepreneur | [us /ˌɑːn.trə.prəˈnɝː/ uk /ˌɒn.trə.prəˈnɜːʳ/](https://dictionary.cambridge.org/us/dictionary/english/entrepreneur ) | |
 | <a id="F"></a> fail |[us /feɪl/ uk /feɪl/](https://dictionary.cambridge.org/us/dictionary/english/fail) | |
 | file |[us /faɪl/ uk /faɪl/](https://dictionary.cambridge.org/us/dictionary/english/file) | |
-| finder | [us /ˈfaɪn.dɚ/ uk /ˈfaɪn.dər/](https://dictionary.cambridge.org/us/dictionary/english/finder) | |
+| finder | [us /ˈfaɪn.dɚ/ uk /ˈfaɪn.dəʳ/](https://dictionary.cambridge.org/us/dictionary/english/finder) | |
 | function | [us /ˈfʌŋk.ʃən/ uk /ˈfʌŋk.ʃən/](https://dictionary.cambridge.org/us/dictionary/english/function) | |
 | <a id="G"></a> GIF | [us /ɡɪf/ uk /ɡɪf/](https://dictionary.cambridge.org/us/dictionary/english/gif) | but actually it is /dʒif/ |
 | <a id="H"></a> height | [us /haɪt/ uk /haɪt/](https://dictionary.cambridge.org/us/dictionary/english/height) | |
@@ -62,10 +62,10 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | <a id="Q"></a> queue | [us /kjuː/ uk /kjuː/](https://dictionary.cambridge.org/us/dictionary/english/queue) | |
 | <a id="R"></a> recipe |[us /ˈres.ə.pi/ uk /ˈres.ɪ.pi/](https://dictionary.cambridge.org/us/dictionary/english/recipe) | |
 | retina |[us /ˈret.ən.ə/ uk /ˈret.ɪ.nə/](https://dictionary.cambridge.org/us/dictionary/english/retina) | |
-| router |[us /ˈraʊ.t̬ɚ/ uk /ˈruː.tər/](https://dictionary.cambridge.org/us/dictionary/english/router) | |
+| router |[us /ˈraʊ.t̬ɚ/ uk /ˈruː.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/router) | |
 | <a id="S"></a> science | [us /ˈsaɪ.əns/ uk /ˈsaɪ.əns/](https://dictionary.cambridge.org/us/dictionary/english/science) | |
 | scrum | [us /skrʌm/ uk /skrʌm/](https://dictionary.cambridge.org/us/dictionary/english/scrum) | |
-| software |[us /ˈsɑːft.wer/ uk /ˈsɒft.weər/](https://dictionary.cambridge.org/us/dictionary/english/software) | pay attention to the stress |
+| software |[us /ˈsɑːft.wer/ uk /ˈsɒft.weəʳ/](https://dictionary.cambridge.org/us/dictionary/english/software) | pay attention to the stress |
 | status | [us /ˈsteɪ.t̬əs/ uk /ˈsteɪ.təs/](https://dictionary.cambridge.org/us/dictionary/english/status) | |
 | suite |[us /swiːt/ uk /swiːt/](https://dictionary.cambridge.org/us/dictionary/english/suite) | refers to Adobe suite |
 | <a id="T"></a> tech | [us /tek/ uk /tek/](https://dictionary.cambridge.org/us/dictionary/english/tech) | |

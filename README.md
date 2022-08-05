@@ -45,7 +45,7 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | file |[us /faɪl/ uk /faɪl/](https://dictionary.cambridge.org/us/dictionary/english/file) | |
 | finder | [us /ˈfaɪn.dɚ/ uk /ˈfaɪn.dəʳ/](https://dictionary.cambridge.org/us/dictionary/english/finder) | |
 | function | [us /ˈfʌŋk.ʃən/ uk /ˈfʌŋk.ʃən/](https://dictionary.cambridge.org/us/dictionary/english/function) | |
-| <a id="G"></a> GIF | [us /ɡɪf/ uk /ɡɪf/](https://dictionary.cambridge.org/us/dictionary/english/gif) | but actually it is /dʒif/ |
+| <a id="G"></a> GIF | [us /ɡɪf/ uk /ɡɪf/](https://dictionary.cambridge.org/us/dictionary/english/gif) | but apparently it is [/dʒif/](https://en.wikipedia.org/wiki/Pronunciation_of_GIF) |
 | <a id="H"></a> height | [us /haɪt/ uk /haɪt/](https://dictionary.cambridge.org/us/dictionary/english/height) | |
 | hierarchy | [us /ˈhaɪ.rɑːr.ki/ uk /ˈhaɪə.rɑː.ki/](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) | |
 | <a id="I"></a> invoke |[us /ɪnˈvoʊk/ uk /ɪnˈvəʊk/](https://dictionary.cambridge.org/us/dictionary/english/invoke) | |
@@ -57,7 +57,7 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | null | [us /nʌl/ uk /nʌl/](https://dictionary.cambridge.org/us/dictionary/english/null) | |
 | <a id="P"></a> paradigm | [us /ˈper.ə.daɪm/ uk /ˈpær.ə.daɪm/](https://dictionary.cambridge.org/us/dictionary/english/paradigm) | |
 | process | [us /ˈprɑː.ses/ uk /ˈprəʊ.ses/](https://dictionary.cambridge.org/us/dictionary/english/process) | |
-| programming | [us /ˈproʊ.ɡræm.ɪŋ/ uk /ˈprəʊ.ɡræm.ɪŋ/](https://dictionary.cambridge.org/us/dictionary/english/programming) | |
+| programming | [us /ˈproʊ.ɡræm.ɪŋ/ uk /ˈprəʊ.ɡræm.ɪŋ/](https://dictionary.cambridge.org/us/dictionary/english/programming) | pay attention to the stress |
 | pseudocode | [us /suː.doʊ.koʊd/ uk /sjuː.dəʊ.kəʊd/](https://dictionary.cambridge.org/us/dictionary/english/pseudo) | |
 | <a id="Q"></a> queue | [us /kjuː/ uk /kjuː/](https://dictionary.cambridge.org/us/dictionary/english/queue) | |
 | <a id="R"></a> recipe |[us /ˈres.ə.pi/ uk /ˈres.ɪ.pi/](https://dictionary.cambridge.org/us/dictionary/english/recipe) | |

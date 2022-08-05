@@ -75,6 +75,7 @@ way it is spelled. Here IPA comes into play because it was created exactly for r
 | vulnerable | [us /ˈvʌl.nɚ.ə.bəl/ uk /ˈvʌl.nər.ə.bəl/ /ˈvʌn.rə.bəl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |
 | <a id="W"></a> WIFI | [us /ˈwaɪ.faɪ/ uk /ˈwaɪ.faɪ/](https://dictionary.cambridge.org/us/dictionary/english/wi-fi) | |
 
+Let's communicate smoothly and effectively. Happy communication!
 
 ## License
 

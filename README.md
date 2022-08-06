@@ -5,10 +5,11 @@ appeared after some author's failures in communication with other programmers.
 
 ## Required knowledge
 
-To feel comfortable with this list it is recommended to know IPA. IPA stands for International Phonetic Alphabet.
-English is not a phonetic language. In phonetic languages there is a direct relationship between the spelling of a word
-and how it is sound. In English, this relationship is not so strong that is why we often don't pronounce a word the same
-way it is spelled. Here IPA comes into play because it was created exactly for representing speech sounds in written form.
+To feel comfortable with this list it is recommended to know [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
+IPA stands for International Phonetic Alphabet. English is not a phonetic language. In phonetic languages there is a direct
+relationship between the spelling of a word and how it is sound. In English, this relationship is not so strong that is why
+we often don't pronounce a word the same way it is spelled. Here IPA comes into play because it was created exactly
+for representing speech sounds in written form.
 
 ## List of words
 

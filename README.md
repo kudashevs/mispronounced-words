@@ -113,9 +113,14 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | programming | [us /ˈproʊ.ɡræm.ɪŋ/ uk /ˈprəʊ.ɡræm.ɪŋ/](https://dictionary.cambridge.org/us/dictionary/english/programming) | pay attention to the stress |
 | pseudocode | [us /suː.doʊ.koʊd/ uk /sjuː.dəʊ.kəʊd/](https://dictionary.cambridge.org/us/dictionary/english/pseudo) | |
 | <a id="Q"></a> queue | [us /kjuː/ uk /kjuː/](https://dictionary.cambridge.org/us/dictionary/english/queue) | |
-| <a id="R"></a> recipe |[us /ˈres.ə.pi/ uk /ˈres.ɪ.pi/](https://dictionary.cambridge.org/us/dictionary/english/recipe) | |
+| <a id="R"></a> random | [us /ˈræn.dəm/ uk /ˈræn.dəm/](https://dictionary.cambridge.org/us/dictionary/english/random) | pay attention to the stress |
+| recipe |[us /ˈres.ə.pi/ uk /ˈres.ɪ.pi/](https://dictionary.cambridge.org/us/dictionary/english/recipe) | |
+| recursion | [us /rɪˈkɝː.ʒən/ uk /rɪˈkɜː.ʒən/](https://dictionary.cambridge.org/us/dictionary/english/recursion) | but recursively |
 | retina |[us /ˈret.ᵊn.ə/ uk /ˈret.ɪ.nə/](https://dictionary.cambridge.org/us/dictionary/english/retina) | |
+| robust | [us /roʊˈbʌst/ uk /rəʊˈbʌst/](https://dictionary.cambridge.org/us/dictionary/english/robust) | pay attention to the stress  |
+| route | [us /ruːt/ /raʊt/ uk /ruːt/](https://dictionary.cambridge.org/us/dictionary/english/route) | * in the USA /raʊt/ seems to be predominant |
 | router |[us /ˈraʊ.t̬ɚ/ uk /ˈruː.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/router) | |
+| résumé | [us /ˈrez.ə.meɪ/ uk /ˈrez.juː.meɪ/](https://dictionary.cambridge.org/us/dictionary/english/resume) | |
 | <a id="S"></a> science | [us /ˈsaɪ.əns/ uk /ˈsaɪ.əns/](https://dictionary.cambridge.org/us/dictionary/english/science) | |
 | scrum | [us /skrʌm/ uk /skrʌm/](https://dictionary.cambridge.org/us/dictionary/english/scrum) | |
 | software |[us /ˈsɑːft.wer/ uk /ˈsɒft.weəʳ/](https://dictionary.cambridge.org/us/dictionary/english/software) | pay attention to the stress |

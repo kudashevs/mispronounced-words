@@ -56,10 +56,16 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | cursor | [us /ˈkɝː.sɚ/ uk /ˈkɜː.səʳ/](https://dictionary.cambridge.org/us/dictionary/english/cursor) | |
 | customer |[us /ˈkʌs.tə.mɚ/ uk /ˈkʌs.tə.məʳ/](https://dictionary.cambridge.org/us/dictionary/english/customer) | |
 | <a id="D"></a> data | [us /ˈdeɪ.t̬ə/ /dæt̬.ə/ uk /ˈdeɪ.tə/](https://dictionary.cambridge.org/us/dictionary/english/data ) | |
+| data structure | [us /ˈdeɪ.t̬ə ˈstrʌk.tʃɚ/ uk /ˈdeɪ.tə ˈstrʌk.tʃər/](https://dictionary.cambridge.org/us/dictionary/english/structure) | |
 | data-driven |[us /ˈdeɪ.t̬əˌdrɪv.ᵊn/ uk /ˈdeɪ.təˌdrɪv.ᵊn/](https://dictionary.cambridge.org/us/dictionary/english/data-driven) | |
+| database | [us /ˈdeɪ.t̬ə.beɪs/ uk /ˈdeɪ.tə.beɪs/](https://dictionary.cambridge.org/us/dictionary/english/database) | |
+| dateset | [us /ˈdeɪ.t̬ə.set/ uk /ˈdeɪ.tə.set/](https://dictionary.cambridge.org/us/dictionary/english/dataset) | |
+| debt | [us /det/ uk /det/](https://dictionary.cambridge.org/us/dictionary/english/debt) | refers to technical debt |
 | default | [us /dɪˈfɑːlt/ uk /dɪˈfɒlt/ /ˈdiː.fɒlt/](https://dictionary.cambridge.org/us/dictionary/english/default) | |
+| definition | [us /ˌdef.ɪˈnɪʃ.ᵊn/ uk /ˌdef.ɪˈnɪʃ.ᵊn/](https://dictionary.cambridge.org/us/dictionary/english/definition) | |
 | developer | [us /dɪˈvel.ə.pɚ/ uk /dɪˈvel.ə.pəʳ/](https://dictionary.cambridge.org/us/dictionary/english/developer) | |
-| driven | [us /ˈdrɪv.ᵊn/ uk /ˈdrɪv.ᵊn/](https://dictionary.cambridge.org/us/dictionary/english/driven) | |
+| device | [us /dɪˈvaɪs/ uk /dɪˈvaɪs/](https://dictionary.cambridge.org/us/dictionary/english/device) | |
+| driven | [us /ˈdrɪv.ᵊn/ uk /ˈdrɪv.ᵊn/](https://dictionary.cambridge.org/us/dictionary/english/driven) | - -driven could be a part of adjective<br> - refers to data-driven |
 | <a id="E"></a> email | [us /ˈiː.meɪl/ uk /ˈiː.meɪl/](https://dictionary.cambridge.org/us/dictionary/english/email)| pay attention to the stress |
 | embedded |[us /ɪmˈbed.ɪd/ uk /ɪmˈbed.ɪd/](https://dictionary.cambridge.org/us/dictionary/english/embedded) | |
 | entrepreneur | [us /ˌɑːn.trə.prəˈnɝː/ uk /ˌɒn.trə.prəˈnɜːʳ/](https://dictionary.cambridge.org/us/dictionary/english/entrepreneur ) | |

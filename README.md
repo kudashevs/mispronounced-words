@@ -12,7 +12,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 
 ## List of words
 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) J [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) X Y Z
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) J [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) Y Z
 
 | Word | Transcription | Comment |
 | ---- | ------------- | ------- |
@@ -142,7 +142,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | vulnerable | [us /ˈvʌl.nɚ.ə.bᵊl/ uk /ˈvʌl.nᵊr.ə.bᵊl/ /ˈvʌn.rə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |
 | <a id="W"></a> WIFI | [us /ˈwaɪ.faɪ/ uk /ˈwaɪ.faɪ/](https://dictionary.cambridge.org/us/dictionary/english/wi-fi) | |
 | WYSIWYG | [us /ˈwɪz.i.wɪɡ/ uk /ˈwɪz.i.wɪɡ/](https://dictionary.cambridge.org/us/dictionary/english/wysiwyg) | |
-| Xerox | [us /ˈzɪr.ɑːks/ uk /ˈzɪə.rɒks/](https://dictionary.cambridge.org/us/dictionary/english/xerox) | |
+| <a id="X"></a> Xerox | [us /ˈzɪr.ɑːks/ uk /ˈzɪə.rɒks/](https://dictionary.cambridge.org/us/dictionary/english/xerox) | |
 
 Let's communicate smoothly and effectively. Happy communication!
 

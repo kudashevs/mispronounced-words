@@ -12,7 +12,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 
 ## List of words
 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) J K [L](#L) [M](#M) [N](#N) O [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) U [V](#V) [W](#W) X Y Z
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) J [K](#K) [L](#L) [M](#M) [N](#N) O [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) U [V](#V) [W](#W) X Y Z
 
 | Word | Transcription | Comment |
 | ---- | ------------- | ------- |
@@ -90,7 +90,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | interpreter | [us /ɪnˈtɝː.prə.t̬ɚ/ uk /ɪnˈtɜː.prə.tər/](https://dictionary.cambridge.org/us/dictionary/english/interpreter) | pay attention to the stress |
 | invoke |[us /ɪnˈvoʊk/ uk /ɪnˈvəʊk/](https://dictionary.cambridge.org/us/dictionary/english/invoke) | |
 | issue | [us /ˈɪʃ.uː/ /ˈɪs.juː/ uk /ˈɪʃ.uː/ /ˈɪs.juː/](https://dictionary.cambridge.org/us/dictionary/english/issue) | |
-| keyboard | [us /ˈkiː.bɔːrd/ uk /ˈkiː.bɔːd/](https://dictionary.cambridge.org/us/dictionary/english/keyboard) | |
+| <a id="K"></a> keyboard | [us /ˈkiː.bɔːrd/ uk /ˈkiː.bɔːd/](https://dictionary.cambridge.org/us/dictionary/english/keyboard) | |
 | <a id="L"></a> launch | [us /lɑːntʃ/ uk /lɔːntʃ/](https://dictionary.cambridge.org/us/dictionary/english/launch) | |
 | <a id="M"></a> machine | [us /məˈʃiːn/ uk /məˈʃiːn/](https://dictionary.cambridge.org/us/dictionary/english/machine)| pay attention to the stress |
 | meme |[us /miːm/ uk /miːm/](https://dictionary.cambridge.org/us/dictionary/english/meme) | |

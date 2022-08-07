@@ -74,9 +74,12 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | example | [us /ɪɡˈzæm.pᵊl/ uk /ɪɡˈzɑːm.pᵊl/](https://dictionary.cambridge.org/us/dictionary/english/example) | |
 | executable | [us /ˈek.sɪ.kjuː.t̬ə.bᵊl/ uk /ˈek.sɪ.kjuː.tə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/executable) | |
 | <a id="F"></a> fail |[us /feɪl/ uk /feɪl/](https://dictionary.cambridge.org/us/dictionary/english/fail) | |
+| feature | [us /ˈfiː.tʃɚ/ uk /ˈfiː.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/feature) | |
 | file |[us /faɪl/ uk /faɪl/](https://dictionary.cambridge.org/us/dictionary/english/file) | |
 | finder | [us /ˈfaɪn.dɚ/ uk /ˈfaɪn.dəʳ/](https://dictionary.cambridge.org/us/dictionary/english/finder) | |
+| flaw | [us /flɑː/ uk/flɔː/](https://dictionary.cambridge.org/us/dictionary/english/flaw) | |
 | function | [us /ˈfʌŋk.ʃᵊn/ uk /ˈfʌŋk.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/function) | |
+| functional | [us /ˈfʌŋk.ʃᵊn.ᵊl/ uk /ˈfʌŋk.ʃᵊn.ᵊl/](https://dictionary.cambridge.org/us/dictionary/english/functional) | refers to functional programming |
 | <a id="G"></a> GIF | [us /ɡɪf/ uk /ɡɪf/](https://dictionary.cambridge.org/us/dictionary/english/gif) | but apparently it is [/dʒif/](https://en.wikipedia.org/wiki/Pronunciation_of_GIF) |
 | <a id="H"></a> height | [us /haɪt/ uk /haɪt/](https://dictionary.cambridge.org/us/dictionary/english/height) | |
 | hierarchy | [us /ˈhaɪ.rɑːr.ki/ uk /ˈhaɪə.rɑː.ki/](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) | |

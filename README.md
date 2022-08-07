@@ -81,7 +81,9 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | function | [us /ˈfʌŋk.ʃᵊn/ uk /ˈfʌŋk.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/function) | |
 | functional | [us /ˈfʌŋk.ʃᵊn.ᵊl/ uk /ˈfʌŋk.ʃᵊn.ᵊl/](https://dictionary.cambridge.org/us/dictionary/english/functional) | refers to functional programming |
 | <a id="G"></a> GIF | [us /ɡɪf/ uk /ɡɪf/](https://dictionary.cambridge.org/us/dictionary/english/gif) | but apparently it is [/dʒif/](https://en.wikipedia.org/wiki/Pronunciation_of_GIF) |
-| <a id="H"></a> height | [us /haɪt/ uk /haɪt/](https://dictionary.cambridge.org/us/dictionary/english/height) | |
+| <a id="H"></a> hackathon | [us /ˈhæk.ə.θɑːn/ uk /ˈhæk.ə.θɒn/](https://dictionary.cambridge.org/us/dictionary/english/hackathon) | pay attention to the th sound |
+| height | [us /haɪt/ uk /haɪt/](https://dictionary.cambridge.org/us/dictionary/english/height) | |
+| hierarchical | [us /ˌhaɪˈrɑːr.kɪ.kᵊl/ uk /ˌhaɪəˈrɑː.kɪ.kᵊl/](https://dictionary.cambridge.org/us/dictionary/english/hierarchical) | |
 | hierarchy | [us /ˈhaɪ.rɑːr.ki/ uk /ˈhaɪə.rɑː.ki/](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) | |
 | <a id="I"></a> invoke |[us /ɪnˈvoʊk/ uk /ɪnˈvəʊk/](https://dictionary.cambridge.org/us/dictionary/english/invoke) | |
 | <a id="L"></a> launch | [us /lɑːntʃ/ uk /lɔːntʃ/](https://dictionary.cambridge.org/us/dictionary/english/launch) | |

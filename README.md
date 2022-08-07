@@ -121,9 +121,16 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | route | [us /ruːt/ /raʊt/ uk /ruːt/](https://dictionary.cambridge.org/us/dictionary/english/route) | * in the USA /raʊt/ seems to be predominant |
 | router |[us /ˈraʊ.t̬ɚ/ uk /ˈruː.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/router) | |
 | résumé | [us /ˈrez.ə.meɪ/ uk /ˈrez.juː.meɪ/](https://dictionary.cambridge.org/us/dictionary/english/resume) | |
-| <a id="S"></a> science | [us /ˈsaɪ.əns/ uk /ˈsaɪ.əns/](https://dictionary.cambridge.org/us/dictionary/english/science) | |
+| <a id="S"></a> scalable | [us /ˈskeɪ.lə.bəl/ uk /ˈskeɪ.lə.bəl/](https://dictionary.cambridge.org/us/dictionary/english/scalable) | |
+| science | [us /ˈsaɪ.əns/ uk /ˈsaɪ.əns/](https://dictionary.cambridge.org/us/dictionary/english/science) | |
 | scrum | [us /skrʌm/ uk /skrʌm/](https://dictionary.cambridge.org/us/dictionary/english/scrum) | |
+| security | [us /səˈkjʊr.ə.t̬i/ uk /sɪˈkjʊə.rə.ti/](https://dictionary.cambridge.org/us/dictionary/english/security) | four syllables |
+| sequence | [us /ˈsiː.kwəns/ uk /ˈsiː.kwəns/](https://dictionary.cambridge.org/us/dictionary/english/sequence) | |
+| server | [us /ˈsɝː.vɚ/ uk /ˈsɜː.vəʳ/](https://dictionary.cambridge.org/us/dictionary/english/server) | |
+| service | [us /ˈsɝː.vɪs/ uk /ˈsɜː.vɪs/](https://dictionary.cambridge.org/us/dictionary/english/service) | |
+| silicon | [us /ˈsɪl.ə.kən/ uk /ˈsɪl.ɪ.kən/](https://dictionary.cambridge.org/us/dictionary/english/silicon) | refers to Silicon valley |
 | software |[us /ˈsɑːft.wer/ uk /ˈsɒft.weəʳ/](https://dictionary.cambridge.org/us/dictionary/english/software) | pay attention to the stress |
+| source | [us /sɔːrs/ uk /sɔːs/](https://dictionary.cambridge.org/us/dictionary/english/source) | refers to source control |
 | status | [us /ˈsteɪ.t̬əs/ uk /ˈsteɪ.təs/](https://dictionary.cambridge.org/us/dictionary/english/status) | |
 | suite |[us /swiːt/ uk /swiːt/](https://dictionary.cambridge.org/us/dictionary/english/suite) | refers to Adobe suite |
 | <a id="T"></a> tech | [us /tek/ uk /tek/](https://dictionary.cambridge.org/us/dictionary/english/tech) | |

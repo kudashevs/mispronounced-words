@@ -137,6 +137,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | technology | [us /tekˈnɑː.lə.dʒi/ uk /tekˈnɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/technology) | |
 | template | [us /ˈtem.plət/ uk /ˈtem.pleɪt/](https://dictionary.cambridge.org/us/dictionary/english/template) | |
 | thesis | [us /ˈθiː.sɪs/ uk /ˈθiː.sɪs/](https://dictionary.cambridge.org/us/dictionary/english/thesis) | |
+| undo | [us /ʌnˈduː/ uk /ʌnˈduː/](https://dictionary.cambridge.org/us/dictionary/english/undo) | |
 | <a id="V"></a> vulnerability | [us /ˌvʌl.nɚ.əˈbɪl.ə.t̬i/ uk /ˌvʌl.nᵊr.əˈbɪl.ə.ti/ /ˌvʌn.rəˈbɪl.ə.ti/](https://dictionary.cambridge.org/us/dictionary/english/vulnerability) | |
 | vulnerable | [us /ˈvʌl.nɚ.ə.bᵊl/ uk /ˈvʌl.nᵊr.ə.bᵊl/ /ˈvʌn.rə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |
 | <a id="W"></a> WIFI | [us /ˈwaɪ.faɪ/ uk /ˈwaɪ.faɪ/](https://dictionary.cambridge.org/us/dictionary/english/wi-fi) | |

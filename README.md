@@ -18,9 +18,8 @@ English phonemic chart. Phonemic charts can be interactive or non-interactive. I
 it's not really important. The important thing here is that the chart should be divided in three main blocks (consonants,
 vowels, diphthongs). According to my experience, it is easier to learn the sounds in groups.
 &nbsp;
-<div style="text-align: center;">
+
 [![English phonemic chart](https://user-images.githubusercontent.com/15892462/183292223-40400df7-1cbe-4a90-b521-dabd6f67c777.png)](https://www.teachingenglish.org.uk/article/phonemic-chart)
-</div>
 After you are comfortable with the sounds, it is a good idea to make some practice. You can find a good step-by-step article
 on how to learn and practice IPA on [wikihow.com](https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-(IPA)).
 </div>
@@ -34,16 +33,14 @@ want to learn IPA the only way to find the right pronunciation is to use audio a
 materials and remember the right pronunciation. In such a case, I would like to suggest using:
 &nbsp;
 * a dictionary with vocalization (for example, Cambridge Dictionary)
-<div style="text-align: center;">
+
 [![Cambridge Dictionary](https://user-images.githubusercontent.com/15892462/183303994-a989e0a8-9698-4a23-95c7-fde5f3dc4769.png)](https://dictionary.cambridge.org/us/dictionary/english/ai)
-*audio icons are interactive and give the possibility to listen to the pronunciation of a word in different accents*
-</div>
+<p align="center">*audio icons are interactive and give the possibility to listen to the pronunciation of a word in different accents*</p>
 &nbsp;
 * a deep search through videos' subtitles (for example, Youglish service)
-<div style="text-align: center;">
+
 [![Youglish](https://user-images.githubusercontent.com/15892462/183304058-dbe9d1e4-247d-4801-8f2d-e7c218b65293.png)](https://youglish.com/pronounce/AI/english)
-*language icons below the search form give the possibility to filter videos by a specific accent*
-</div>
+<p align="center">*language icons below the search form give the possibility to filter videos by a specific accent*</p>
 &nbsp;
 
 The important thing here, that a service should have the possibility to select a specific accent.

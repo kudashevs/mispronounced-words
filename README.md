@@ -12,7 +12,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 
 <details>
 <summary style="font-size:1.125em;font-weight:bold;">I want to learn IPA</summary>
-<div style="margin:0.725em 0 0 1.125em;">
+
 It is important to understand that we are interested only in English IPA. A good starting point might be to find a
 English phonemic chart. Phonemic charts can be interactive or non-interactive. It can be a picture, a document, an app,
 it's not really important. The important thing here is that the chart should be divided in three main blocks (consonants,
@@ -24,12 +24,12 @@ vowels, diphthongs). According to my experience, it is easier to learn the sound
 </div>
 After you are comfortable with the sounds, it is a good idea to make some practice. You can find a good step-by-step article
 on how to learn and practice IPA on [wikihow.com](https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-(IPA)).
-</div>
+
 </details>
 <br>
 <details>
 <summary style="font-size:1.125em;font-weight:bold;">I don't want to learn IPA</summary>
-<div style="margin:0.725em 0 0 1.125em;">
+
 Fair enough, however you will have to make more effort to find and remember the right pronunciation. So, if you don't
 want to learn IPA the only way to find the right pronunciation is to use audio and video materials. Listen to these
 materials and remember the right pronunciation. In such a case, I would like to suggest using:
@@ -50,7 +50,7 @@ materials and remember the right pronunciation. In such a case, I would like to 
 &nbsp;
 
 The important thing here, that a service should have the possibility to select a specific accent.
-</div>
+
 </details>
 
 ## List of words

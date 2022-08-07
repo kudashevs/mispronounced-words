@@ -33,21 +33,20 @@ on how to learn and practice IPA on [wikihow.com](https://www.wikihow.com/Learn-
 Fair enough, however you will have to make more effort to find and remember the right pronunciation. So, if you don't
 want to learn IPA the only way to find the right pronunciation is to use audio and video materials. Listen to these
 materials and remember the right pronunciation. In such a case, I would like to suggest using:
-<br>
+
 * a dictionary with vocalization (for example, Cambridge Dictionary)
 <div align="center">
 
 [![Cambridge Dictionary](https://user-images.githubusercontent.com/15892462/183303994-a989e0a8-9698-4a23-95c7-fde5f3dc4769.png)](https://dictionary.cambridge.org/us/dictionary/english/ai)
 *audio icons are interactive and give the possibility to listen to the pronunciation of a word in different accents*
 </div>
-&nbsp;
+
 * a deep search through videos' subtitles (for example, Youglish service)
 <div align="center">
 
 [![Youglish](https://user-images.githubusercontent.com/15892462/183304058-dbe9d1e4-247d-4801-8f2d-e7c218b65293.png)](https://youglish.com/pronounce/AI/english)
 *language icons below the search form give the possibility to filter videos by a specific accent*
 </div>
-&nbsp;
 
 The important thing here, that a service should have the possibility to select a specific accent.
 

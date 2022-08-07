@@ -12,7 +12,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 
 ## List of words
 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) J [K](#K) [L](#L) [M](#M) [N](#N) O [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) U [V](#V) [W](#W) X Y Z
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) J [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) U [V](#V) [W](#W) X Y Z
 
 | Word | Transcription | Comment |
 | ---- | ------------- | ------- |
@@ -104,7 +104,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | <a id="N"></a> niche | [us /nɪtʃ/ uk /niːʃ/](https://dictionary.cambridge.org/us/dictionary/english/niche) | |
 | null | [us /nʌl/ uk /nʌl/](https://dictionary.cambridge.org/us/dictionary/english/null) | |
 | number | [us /ˈnʌm.bɚ/ uk /ˈnʌm.bəʳ/](https://dictionary.cambridge.org/us/dictionary/english/number) | |
-| open-source | [us /ˌoʊ.pənˈsɔːrs/ uk /ˌəʊ.pənˈsɔːs/](https://dictionary.cambridge.org/us/dictionary/english/open-source) | |
+| <a id="O"></a> open-source | [us /ˌoʊ.pənˈsɔːrs/ uk /ˌəʊ.pənˈsɔːs/](https://dictionary.cambridge.org/us/dictionary/english/open-source) | |
 | <a id="P"></a> paradigm | [us /ˈper.ə.daɪm/ uk /ˈpær.ə.daɪm/](https://dictionary.cambridge.org/us/dictionary/english/paradigm) | |
 | process | [us /ˈprɑː.ses/ uk /ˈprəʊ.ses/](https://dictionary.cambridge.org/us/dictionary/english/process) | |
 | programming | [us /ˈproʊ.ɡræm.ɪŋ/ uk /ˈprəʊ.ɡræm.ɪŋ/](https://dictionary.cambridge.org/us/dictionary/english/programming) | pay attention to the stress |

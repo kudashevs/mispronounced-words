@@ -103,6 +103,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | module | [us /ˈmɑː.dʒuːl/ uk /ˈmɒdʒ.uːl/](https://dictionary.cambridge.org/us/dictionary/english/module) | |
 | <a id="N"></a> niche | [us /nɪtʃ/ uk /niːʃ/](https://dictionary.cambridge.org/us/dictionary/english/niche) | |
 | null | [us /nʌl/ uk /nʌl/](https://dictionary.cambridge.org/us/dictionary/english/null) | |
+| number | [us /ˈnʌm.bɚ/ uk /ˈnʌm.bəʳ/](https://dictionary.cambridge.org/us/dictionary/english/number) | |
 | <a id="P"></a> paradigm | [us /ˈper.ə.daɪm/ uk /ˈpær.ə.daɪm/](https://dictionary.cambridge.org/us/dictionary/english/paradigm) | |
 | process | [us /ˈprɑː.ses/ uk /ˈprəʊ.ses/](https://dictionary.cambridge.org/us/dictionary/english/process) | |
 | programming | [us /ˈproʊ.ɡræm.ɪŋ/ uk /ˈprəʊ.ɡræm.ɪŋ/](https://dictionary.cambridge.org/us/dictionary/english/programming) | pay attention to the stress |

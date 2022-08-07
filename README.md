@@ -95,8 +95,12 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | leverage | [us /ˈlev.ɚ.ɪdʒ/ uk /ˈliː.vᵊr.ɪdʒ/](https://dictionary.cambridge.org/us/dictionary/english/leverage) | |
 | linear | [us /ˈlɪn.i.ɚ/ uk /ˈlɪn.i.əʳ/](https://dictionary.cambridge.org/us/dictionary/english/linear) | should be pronounced as three syllables |
 | <a id="M"></a> machine | [us /məˈʃiːn/ uk /məˈʃiːn/](https://dictionary.cambridge.org/us/dictionary/english/machine)| pay attention to the stress |
+| machine code | [us /məˈʃiːn ˌkoʊd/ uk /məˈʃiːn ˌkəʊd/](https://dictionary.cambridge.org/us/dictionary/english/machine-code) | |
+| maintain | [us /meɪnˈteɪn/ uk /meɪnˈteɪn/](https://dictionary.cambridge.org/us/dictionary/english/maintain) | pay attention to the stress (it's a verb) |
+| maintenance | [us /ˈmeɪn.tən.əns/ uk /ˈmeɪn.tən.əns/](https://dictionary.cambridge.org/us/dictionary/english/maintenance) | |
 | meme |[us /miːm/ uk /miːm/](https://dictionary.cambridge.org/us/dictionary/english/meme) | |
 | methodology |[us /ˌmeθ.əˈdɑː.lə.dʒi/ uk /ˌmeθ.əˈdɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/methodology) | |
+| module | [us /ˈmɑː.dʒuːl/ uk /ˈmɒdʒ.uːl/](https://dictionary.cambridge.org/us/dictionary/english/module) | |
 | <a id="N"></a> niche | [us /nɪtʃ/ uk /niːʃ/](https://dictionary.cambridge.org/us/dictionary/english/niche) | |
 | null | [us /nʌl/ uk /nʌl/](https://dictionary.cambridge.org/us/dictionary/english/null) | |
 | <a id="P"></a> paradigm | [us /ˈper.ə.daɪm/ uk /ˈpær.ə.daɪm/](https://dictionary.cambridge.org/us/dictionary/english/paradigm) | |

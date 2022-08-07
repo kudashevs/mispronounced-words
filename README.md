@@ -92,6 +92,8 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | issue | [us /ˈɪʃ.uː/ /ˈɪs.juː/ uk /ˈɪʃ.uː/ /ˈɪs.juː/](https://dictionary.cambridge.org/us/dictionary/english/issue) | |
 | <a id="K"></a> keyboard | [us /ˈkiː.bɔːrd/ uk /ˈkiː.bɔːd/](https://dictionary.cambridge.org/us/dictionary/english/keyboard) | |
 | <a id="L"></a> launch | [us /lɑːntʃ/ uk /lɔːntʃ/](https://dictionary.cambridge.org/us/dictionary/english/launch) | |
+| leverage | [us /ˈlev.ɚ.ɪdʒ/ uk /ˈliː.vᵊr.ɪdʒ/](https://dictionary.cambridge.org/us/dictionary/english/leverage) | |
+| linear | [us /ˈlɪn.i.ɚ/ uk /ˈlɪn.i.əʳ/](https://dictionary.cambridge.org/us/dictionary/english/linear) | should be pronounced as three syllables |
 | <a id="M"></a> machine | [us /məˈʃiːn/ uk /məˈʃiːn/](https://dictionary.cambridge.org/us/dictionary/english/machine)| pay attention to the stress |
 | meme |[us /miːm/ uk /miːm/](https://dictionary.cambridge.org/us/dictionary/english/meme) | |
 | methodology |[us /ˌmeθ.əˈdɑː.lə.dʒi/ uk /ˌmeθ.əˈdɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/methodology) | |

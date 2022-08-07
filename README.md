@@ -19,7 +19,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | <a id="A"></a> adobe | [us /əˈdoʊ.bi/ uk /əˈdəʊ.bi/](https://dictionary.cambridge.org/us/dictionary/english/adobe) | |
 | algorithm | [us /ˈæl.ɡə.rɪ.ðəm/ uk /ˈæl.ɡə.rɪ.ðəm/](https://dictionary.cambridge.org/us/dictionary/english/algorithm) | |
 | asynchronous | [us /eɪˈsɪŋ.krə.nəs/ uk /eɪˈsɪŋ.krə.nəs/](https://dictionary.cambridge.org/us/dictionary/english/asynchronous) | |
-| augmented | [us /ɑːɡˈment/ uk /ɔːɡˈment/](https://dictionary.cambridge.org/us/dictionary/english/augment) | refers to augmented reality |
+| augmented | [us /ɑːɡˈmentɪd/ uk /ɔːɡˈmentɪd/](https://dictionary.cambridge.org/us/dictionary/english/augment) | refers to augmented reality |
 | authentication | [us /ɑːˌθen.t̬əˈkeɪ.ʃən/ uk /ɔːˌθen.tɪˈkeɪ.ʃən/](https://dictionary.cambridge.org/us/dictionary/english/authentication) | |
 | autonomous | [us /ɑːˈtɑː.nə.məs/ uk /ɔːˈtɒn.ə.məs/](https://dictionary.cambridge.org/us/dictionary/english/autonomous) | |
 | <a id="B"></a> binary | [us /ˈbaɪ.ner.i/ uk /ˈbaɪ.nər.i/](https://dictionary.cambridge.org/us/dictionary/english/binary) | |
@@ -31,20 +31,20 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | coding | [us /koʊd.ɪŋ/ uk /kəʊd.ɪŋ/](https://dictionary.cambridge.org/dictionary/english/coding) | |
 | component |[us /kəmˈpoʊ.nənt/ uk /kəmˈpəʊ.nənt/](https://dictionary.cambridge.org/us/dictionary/english/component) | |
 | computer |[us /kəmˈpjuː.t̬ɚ/ uk /kəmˈpjuː.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/computer) | |
-| current | [us /ˈkɝː.ənt/ uk /ˈkʌr.ənt/](https://dictionary.cambridge.org/us/dictionary/english/current) | |
+| current | [us /ˈkɝː.ᵊnt/ uk /ˈkʌr.ᵊnt/](https://dictionary.cambridge.org/us/dictionary/english/current) | |
 | customer |[us /ˈkʌs.tə.mɚ/ uk /ˈkʌs.tə.məʳ/](https://dictionary.cambridge.org/us/dictionary/english/customer) | |
 | <a id="D"></a> data | [us /ˈdeɪ.t̬ə/ /dæt̬.ə/ uk /ˈdeɪ.tə/](https://dictionary.cambridge.org/us/dictionary/english/data ) | |
-| data-driven |[us /ˈdeɪ.t̬əˌdrɪv.ən/ uk /ˈdeɪ.təˌdrɪv.ən/](https://dictionary.cambridge.org/us/dictionary/english/data-driven) | |
+| data-driven |[us /ˈdeɪ.t̬əˌdrɪv.ᵊn/ uk /ˈdeɪ.təˌdrɪv.ᵊn/](https://dictionary.cambridge.org/us/dictionary/english/data-driven) | |
 | default | [us /dɪˈfɑːlt/ uk /dɪˈfɒlt/ /ˈdiː.fɒlt/](https://dictionary.cambridge.org/us/dictionary/english/default) | |
 | developer | [us /dɪˈvel.ə.pɚ/ uk /dɪˈvel.ə.pəʳ/](https://dictionary.cambridge.org/us/dictionary/english/developer) | |
-| -driven | [us /ˈdrɪv.ən/ uk /ˈdrɪv.ən/](https://dictionary.cambridge.org/us/dictionary/english/driven) | |
+| driven | [us /ˈdrɪv.ᵊn/ uk /ˈdrɪv.ᵊn/](https://dictionary.cambridge.org/us/dictionary/english/driven) | |
 | <a id="E"></a> email | [us /ˈiː.meɪl/ uk /ˈiː.meɪl/](https://dictionary.cambridge.org/us/dictionary/english/email)| pay attention to the stress |
 | embedded |[us /ɪmˈbed.ɪd/ uk /ɪmˈbed.ɪd/](https://dictionary.cambridge.org/us/dictionary/english/embedded) | |
 | entrepreneur | [us /ˌɑːn.trə.prəˈnɝː/ uk /ˌɒn.trə.prəˈnɜːʳ/](https://dictionary.cambridge.org/us/dictionary/english/entrepreneur ) | |
 | <a id="F"></a> fail |[us /feɪl/ uk /feɪl/](https://dictionary.cambridge.org/us/dictionary/english/fail) | |
 | file |[us /faɪl/ uk /faɪl/](https://dictionary.cambridge.org/us/dictionary/english/file) | |
 | finder | [us /ˈfaɪn.dɚ/ uk /ˈfaɪn.dəʳ/](https://dictionary.cambridge.org/us/dictionary/english/finder) | |
-| function | [us /ˈfʌŋk.ʃən/ uk /ˈfʌŋk.ʃən/](https://dictionary.cambridge.org/us/dictionary/english/function) | |
+| function | [us /ˈfʌŋk.ʃᵊn/ uk /ˈfʌŋk.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/function) | |
 | <a id="G"></a> GIF | [us /ɡɪf/ uk /ɡɪf/](https://dictionary.cambridge.org/us/dictionary/english/gif) | but apparently it is [/dʒif/](https://en.wikipedia.org/wiki/Pronunciation_of_GIF) |
 | <a id="H"></a> height | [us /haɪt/ uk /haɪt/](https://dictionary.cambridge.org/us/dictionary/english/height) | |
 | hierarchy | [us /ˈhaɪ.rɑːr.ki/ uk /ˈhaɪə.rɑː.ki/](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) | |
@@ -61,7 +61,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | pseudocode | [us /suː.doʊ.koʊd/ uk /sjuː.dəʊ.kəʊd/](https://dictionary.cambridge.org/us/dictionary/english/pseudo) | |
 | <a id="Q"></a> queue | [us /kjuː/ uk /kjuː/](https://dictionary.cambridge.org/us/dictionary/english/queue) | |
 | <a id="R"></a> recipe |[us /ˈres.ə.pi/ uk /ˈres.ɪ.pi/](https://dictionary.cambridge.org/us/dictionary/english/recipe) | |
-| retina |[us /ˈret.ən.ə/ uk /ˈret.ɪ.nə/](https://dictionary.cambridge.org/us/dictionary/english/retina) | |
+| retina |[us /ˈret.ᵊn.ə/ uk /ˈret.ɪ.nə/](https://dictionary.cambridge.org/us/dictionary/english/retina) | |
 | router |[us /ˈraʊ.t̬ɚ/ uk /ˈruː.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/router) | |
 | <a id="S"></a> science | [us /ˈsaɪ.əns/ uk /ˈsaɪ.əns/](https://dictionary.cambridge.org/us/dictionary/english/science) | |
 | scrum | [us /skrʌm/ uk /skrʌm/](https://dictionary.cambridge.org/us/dictionary/english/scrum) | |
@@ -71,8 +71,8 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | <a id="T"></a> tech | [us /tek/ uk /tek/](https://dictionary.cambridge.org/us/dictionary/english/tech) | |
 | technology | [us /tekˈnɑː.lə.dʒi/ uk /tekˈnɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/technology) | |
 | template | [us /ˈtem.plət/ uk /ˈtem.pleɪt/](https://dictionary.cambridge.org/us/dictionary/english/template) | |
-| <a id="V"></a> vulnerability | [us /ˌvʌl.nɚ.əˈbɪl.ə.t̬i/ uk /ˌvʌl.nər.əˈbɪl.ə.ti/ /ˌvʌn.rəˈbɪl.ə.ti/](https://dictionary.cambridge.org/us/dictionary/english/vulnerability) | |
-| vulnerable | [us /ˈvʌl.nɚ.ə.bəl/ uk /ˈvʌl.nər.ə.bəl/ /ˈvʌn.rə.bəl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |
+| <a id="V"></a> vulnerability | [us /ˌvʌl.nɚ.əˈbɪl.ə.t̬i/ uk /ˌvʌl.nᵊr.əˈbɪl.ə.ti/ /ˌvʌn.rəˈbɪl.ə.ti/](https://dictionary.cambridge.org/us/dictionary/english/vulnerability) | |
+| vulnerable | [us /ˈvʌl.nɚ.ə.bᵊl/ uk /ˈvʌl.nᵊr.ə.bᵊl/ /ˈvʌn.rə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |
 | <a id="W"></a> WIFI | [us /ˈwaɪ.faɪ/ uk /ˈwaɪ.faɪ/](https://dictionary.cambridge.org/us/dictionary/english/wi-fi) | |
 
 Let's communicate smoothly and effectively. Happy communication!

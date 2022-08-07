@@ -22,6 +22,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | agenda | [us /əˈdʒen.də/ uk /əˈdʒen.də/](https://dictionary.cambridge.org/us/dictionary/english/agenda) | |
 | agile | [us /ˈædʒ.ᵊl/ /ˈædʒ.aɪl/ uk /ˈædʒ.aɪl/](https://dictionary.cambridge.org/us/dictionary/english/agile) | - refers to agile methodology<br>- in the USA /ˈædʒ.aɪl/ seems to be predominant |
 | algorithm | [us /ˈæl.ɡə.rɪ.ðəm/ uk /ˈæl.ɡə.rɪ.ðəm/](https://dictionary.cambridge.org/us/dictionary/english/algorithm) | |
+| application | [us /ˌæp.ləˈkeɪ.ʃᵊn/ uk /ˌæp.lɪˈkeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/application) | |
 | architect | [us /ˈɑːr.kə.tekt/ uk /ˈɑː.kɪ.tekt/](https://dictionary.cambridge.org/us/dictionary/english/architect) | |
 | architecture | [us /ˈɑːr.kə.tek.tʃɚ/ uk /ˈɑː.kɪ.tek.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/architecture) | |
 | asynchronous | [us /eɪˈsɪŋ.krə.nəs/ uk /eɪˈsɪŋ.krə.nəs/](https://dictionary.cambridge.org/us/dictionary/english/asynchronous) | |
@@ -30,7 +31,6 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | authorization | [us /ˌɑː.θɚ.əˈzeɪ.ʃᵊn/ uk /ˌɔː.θər.aɪˈzeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/authorization) | |
 | automation | [us /ˌɑː.t̬əˈmeɪ.ʃᵊn/ uk /ˌɔː.təˈmeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/automation) | refers to automation engineer |
 | autonomous | [us /ɑːˈtɑː.nə.məs/ uk /ɔːˈtɒn.ə.məs/](https://dictionary.cambridge.org/us/dictionary/english/autonomous) | |
-| application | [us /ˌæp.ləˈkeɪ.ʃᵊn/ uk /ˌæp.lɪˈkeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/application) | |
 | <a id="B"></a> big data | [us /ˌbɪɡ ˈdeɪ.t̬ə/ /ˌbɪɡ ˈdæt̬·ə/ uk /ˌbɪɡ ˈdeɪ.tə/](https://dictionary.cambridge.org/us/dictionary/english/big-data) | |
 | binary | [us /ˈbaɪ.ner.i/ uk /ˈbaɪ.nər.i/](https://dictionary.cambridge.org/us/dictionary/english/binary) | |
 | buffer | [us /ˈbʌf.ɚ/ uk /ˈbʌf.əʳ/](https://dictionary.cambridge.org/us/dictionary/english/buffer) | |

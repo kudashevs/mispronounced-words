@@ -141,6 +141,7 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | <a id="V"></a> vulnerability | [us /ˌvʌl.nɚ.əˈbɪl.ə.t̬i/ uk /ˌvʌl.nᵊr.əˈbɪl.ə.ti/ /ˌvʌn.rəˈbɪl.ə.ti/](https://dictionary.cambridge.org/us/dictionary/english/vulnerability) | |
 | vulnerable | [us /ˈvʌl.nɚ.ə.bᵊl/ uk /ˈvʌl.nᵊr.ə.bᵊl/ /ˈvʌn.rə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |
 | <a id="W"></a> WIFI | [us /ˈwaɪ.faɪ/ uk /ˈwaɪ.faɪ/](https://dictionary.cambridge.org/us/dictionary/english/wi-fi) | |
+| WYSIWYG | [us /ˈwɪz.i.wɪɡ/ uk /ˈwɪz.i.wɪɡ/](https://dictionary.cambridge.org/us/dictionary/english/wysiwyg) | |
 
 Let's communicate smoothly and effectively. Happy communication!
 

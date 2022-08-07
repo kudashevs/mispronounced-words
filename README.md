@@ -23,7 +23,7 @@ vowels, diphthongs). According to my experience, it is easier to learn the sound
 [![English phonemic chart](https://user-images.githubusercontent.com/15892462/183292223-40400df7-1cbe-4a90-b521-dabd6f67c777.png)](https://www.teachingenglish.org.uk/article/phonemic-chart)
 </div>
 After you are comfortable with the sounds, it is a good idea to make some practice. You can find a good step-by-step article
-on how to learn and practice IPA on [wikihow.com](https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-(IPA)).
+on how to learn and practice IPA on [wikihow.com](https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-IPA).
 
 </details>
 <br>

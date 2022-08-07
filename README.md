@@ -31,7 +31,10 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | automation | [us /ˌɑː.t̬əˈmeɪ.ʃᵊn/ uk /ˌɔː.təˈmeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/automation) | refers to automation engineer |
 | autonomous | [us /ɑːˈtɑː.nə.məs/ uk /ɔːˈtɒn.ə.məs/](https://dictionary.cambridge.org/us/dictionary/english/autonomous) | |
 | application | [us /ˌæp.ləˈkeɪ.ʃᵊn/ uk /ˌæp.lɪˈkeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/application) | |
-| <a id="B"></a> binary | [us /ˈbaɪ.ner.i/ uk /ˈbaɪ.nər.i/](https://dictionary.cambridge.org/us/dictionary/english/binary) | |
+| <a id="B"></a> big data | [us /ˌbɪɡ ˈdeɪ.t̬ə/ /ˌbɪɡ ˈdæt̬·ə/ uk /ˌbɪɡ ˈdeɪ.tə/](https://dictionary.cambridge.org/us/dictionary/english/big-data) | |
+| binary | [us /ˈbaɪ.ner.i/ uk /ˈbaɪ.nər.i/](https://dictionary.cambridge.org/us/dictionary/english/binary) | |
+| buffer | [us /ˈbʌf.ɚ/ uk /ˈbʌf.əʳ/](https://dictionary.cambridge.org/us/dictionary/english/buffer) | |
+| bug | [us /bʌɡ/ uk /bʌɡ/](https://dictionary.cambridge.org/us/dictionary/english/bug) | |
 | <a id="C"></a> cache | [us /kæʃ/ uk /kæʃ/](https://dictionary.cambridge.org/us/dictionary/english/cache) | |
 | certificate |[us /sɚˈtɪf.ə.kət/ uk /səˈtɪf.ɪ.kət/](https://dictionary.cambridge.org/us/dictionary/english/certificate) | |
 | chaos | [us /ˈkeɪ.ɑːs/ uk /ˈkeɪ.ɒs/](https://dictionary.cambridge.org/us/dictionary/english/chaos) | |

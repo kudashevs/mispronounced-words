@@ -106,7 +106,10 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | number | [us /ˈnʌm.bɚ/ uk /ˈnʌm.bəʳ/](https://dictionary.cambridge.org/us/dictionary/english/number) | |
 | <a id="O"></a> open-source | [us /ˌoʊ.pənˈsɔːrs/ uk /ˌəʊ.pənˈsɔːs/](https://dictionary.cambridge.org/us/dictionary/english/open-source) | |
 | <a id="P"></a> paradigm | [us /ˈper.ə.daɪm/ uk /ˈpær.ə.daɪm/](https://dictionary.cambridge.org/us/dictionary/english/paradigm) | |
+| pivot | [us /ˈpɪv.ət/ uk /ˈpɪv.ət/](https://dictionary.cambridge.org/us/dictionary/english/pivot) | refers to pivot table |
+| procedure | [us /prəˈsiː.dʒɚ/ uk /prəˈsiː.dʒəʳ/](https://dictionary.cambridge.org/us/dictionary/english/procedure) | |
 | process | [us /ˈprɑː.ses/ uk /ˈprəʊ.ses/](https://dictionary.cambridge.org/us/dictionary/english/process) | |
+| product | [us /ˈprɑː.dʌkt/ uk /ˈprɒd.ʌkt/](https://dictionary.cambridge.org/us/dictionary/english/product) | refers to product manager |
 | programming | [us /ˈproʊ.ɡræm.ɪŋ/ uk /ˈprəʊ.ɡræm.ɪŋ/](https://dictionary.cambridge.org/us/dictionary/english/programming) | pay attention to the stress |
 | pseudocode | [us /suː.doʊ.koʊd/ uk /sjuː.dəʊ.kəʊd/](https://dictionary.cambridge.org/us/dictionary/english/pseudo) | |
 | <a id="Q"></a> queue | [us /kjuː/ uk /kjuː/](https://dictionary.cambridge.org/us/dictionary/english/queue) | |

@@ -68,7 +68,11 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | driven | [us /ˈdrɪv.ᵊn/ uk /ˈdrɪv.ᵊn/](https://dictionary.cambridge.org/us/dictionary/english/driven) | - -driven could be a part of adjective<br> - refers to data-driven |
 | <a id="E"></a> email | [us /ˈiː.meɪl/ uk /ˈiː.meɪl/](https://dictionary.cambridge.org/us/dictionary/english/email)| pay attention to the stress |
 | embedded |[us /ɪmˈbed.ɪd/ uk /ɪmˈbed.ɪd/](https://dictionary.cambridge.org/us/dictionary/english/embedded) | |
+| engineer | [us /ˌen.dʒɪˈnɪr/ uk /ˌen.dʒɪˈnɪəʳ/](https://dictionary.cambridge.org/us/dictionary/english/engineer) | pay attention to the stress |
+| enterprise | [us /ˈen.t̬ɚ.praɪz/ uk /ˈen.tə.praɪz/](https://dictionary.cambridge.org/us/dictionary/english/enterprise) | |
 | entrepreneur | [us /ˌɑːn.trə.prəˈnɝː/ uk /ˌɒn.trə.prəˈnɜːʳ/](https://dictionary.cambridge.org/us/dictionary/english/entrepreneur ) | |
+| example | [us /ɪɡˈzæm.pᵊl/ uk /ɪɡˈzɑːm.pᵊl/](https://dictionary.cambridge.org/us/dictionary/english/example) | |
+| executable | [us /ˈek.sɪ.kjuː.t̬ə.bᵊl/ uk /ˈek.sɪ.kjuː.tə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/executable) | |
 | <a id="F"></a> fail |[us /feɪl/ uk /feɪl/](https://dictionary.cambridge.org/us/dictionary/english/fail) | |
 | file |[us /faɪl/ uk /faɪl/](https://dictionary.cambridge.org/us/dictionary/english/file) | |
 | finder | [us /ˈfaɪn.dɚ/ uk /ˈfaɪn.dəʳ/](https://dictionary.cambridge.org/us/dictionary/english/finder) | |

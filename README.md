@@ -39,11 +39,21 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 | certificate |[us /sɚˈtɪf.ə.kət/ uk /səˈtɪf.ɪ.kət/](https://dictionary.cambridge.org/us/dictionary/english/certificate) | |
 | chaos | [us /ˈkeɪ.ɑːs/ uk /ˈkeɪ.ɒs/](https://dictionary.cambridge.org/us/dictionary/english/chaos) | |
 | character |[us /ˈker.ək.tɚ/ uk /ˈkær.ək.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/character) | |
+| closure | [us /ˈkloʊ.ʒɚ/ uk /ˈkləʊ.ʒəʳ/](https://dictionary.cambridge.org/us/dictionary/english/closure) | |
+| cloud | [us /klaʊd/ uk /klaʊd/](https://dictionary.cambridge.org/us/dictionary/english/cloud) | refers to cloud computing |
+| cluster | [us /ˈklʌs.tɚ/ uk /ˈklʌs.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/cluster) | |
 | code | [us /koʊd/ uk /kəʊd/](https://dictionary.cambridge.org/us/dictionary/english/code) | |
+| code review | [us /koʊd rɪˈvjuː/ uk /kəʊd rɪˈvjuː/](https://dictionary.cambridge.org/us/dictionary/english/review) | |
+| code smell | us /koʊd smel/ uk /kəʊd smel/ | |
+| coder | [us /ˈkoʊ.dɚ/ uk /ˈkəʊ.dəʳ/](https://dictionary.cambridge.org/us/dictionary/english/coder) | |
 | coding | [us /koʊd.ɪŋ/ uk /kəʊd.ɪŋ/](https://dictionary.cambridge.org/dictionary/english/coding) | |
 | component |[us /kəmˈpoʊ.nənt/ uk /kəmˈpəʊ.nənt/](https://dictionary.cambridge.org/us/dictionary/english/component) | |
+| computational | [us /kɑːm.pjəˈteɪ.ʃᵊn.ᵊl/ uk /kɒm.pjəˈteɪ.ʃᵊn.ᵊl/](https://dictionary.cambridge.org/us/dictionary/english/computational) | |
 | computer |[us /kəmˈpjuː.t̬ɚ/ uk /kəmˈpjuː.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/computer) | |
+| continuous | [us /kənˈtɪn.ju.əs/ uk /kənˈtɪn.ju.əs/](https://dictionary.cambridge.org/us/dictionary/english/continuous) | refers to continuous delivery |
+| crawler | [us /ˈkrɑː.lɚ/ uk /ˈkrɔː.ləʳ/](https://dictionary.cambridge.org/us/dictionary/english/crawler) | refers to web crawler |
 | current | [us /ˈkɝː.ᵊnt/ uk /ˈkʌr.ᵊnt/](https://dictionary.cambridge.org/us/dictionary/english/current) | |
+| cursor | [us /ˈkɝː.sɚ/ uk /ˈkɜː.səʳ/](https://dictionary.cambridge.org/us/dictionary/english/cursor) | |
 | customer |[us /ˈkʌs.tə.mɚ/ uk /ˈkʌs.tə.məʳ/](https://dictionary.cambridge.org/us/dictionary/english/customer) | |
 | <a id="D"></a> data | [us /ˈdeɪ.t̬ə/ /dæt̬.ə/ uk /ˈdeɪ.tə/](https://dictionary.cambridge.org/us/dictionary/english/data ) | |
 | data-driven |[us /ˈdeɪ.t̬əˌdrɪv.ᵊn/ uk /ˈdeɪ.təˌdrɪv.ᵊn/](https://dictionary.cambridge.org/us/dictionary/english/data-driven) | |

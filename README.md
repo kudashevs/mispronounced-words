@@ -8,8 +8,8 @@ there was a discussion in one special community that prompted this publication. 
 
 To feel comfortable with this list it is recommended to know IPA. IPA stands for [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 English is not a phonetic language. In phonetic languages there is a direct relationship between the spelling of a word
-and how it sounds. In English, this relationship is not so strong that is why we often don't pronounce a word the same way
-it is spelled. Here IPA comes into play because it was created exactly for representing speech sounds in written form.
+and how it sounds. In English, this relationship is not so strong. That's why we often don't pronounce a word the same way
+it is spelled. This is where IPA comes into play because it was created exactly for representing speech sounds in written form.
 
 <details>
 <summary><b style="font-size:1.325em;">I want to learn IPA</b></summary>
@@ -17,17 +17,17 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 <dd>
 <p></p>
 <p>
-It is important to understand that we are interested only in English IPA. A good starting point might be to find a
-English phonemic chart. Phonemic charts can be interactive or non-interactive. It can be a picture, a document, an app,
-it's not really important. The important thing here is that the chart should be divided in three main blocks (consonants,
-vowels, diphthongs). According to my experience, it is easier to learn the sounds in groups.
+It is important to understand that we are interested only in English IPA. A good starting point might be to find an
+English phonemic chart. Phonemic charts can be interactive or non-interactive. It can be a picture, a document, an app -
+it's not really important. The important thing here is that the chart should be divided into three blocks: consonants,
+vowels, diphthongs. In my experience, it is easier to learn the sounds in groups.
 </p>
 <p align="center">
 <a href="https://www.teachingenglish.org.uk/article/phonemic-chart"><img src="https://user-images.githubusercontent.com/15892462/183292223-40400df7-1cbe-4a90-b521-dabd6f67c777.png" alt="English phonemic chart" /></a>
 </p>
 <p>
-After you are comfortable with the sounds, it is a good idea to make some practice. You can find a good step-by-step article
-on how to learn and practice IPA on <a href="https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-IPA">wikihow.com</a>.
+After you are comfortable with the sounds and their visual representations, it is a good idea to do some practice.
+You can find a good step-by-step article on how to learn and practice IPA on <a href="https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-IPA">wikihow.com</a>.
 </p>
 </dd>
 </dl>
@@ -39,9 +39,9 @@ on how to learn and practice IPA on <a href="https://www.wikihow.com/Learn-the-I
 <dd>
 <p></p>
 <p>
-Fair enough. However, you will have to make more effort to find and remember the right pronunciation. So, if you don't
+Fair enough. However, you will have to put in more effort to find and remember the right pronunciation. So, if you don't
 want to learn IPA the only way to find the right pronunciation is to use audio and video materials. Listen to these
-materials and remember the right pronunciation. In such a case, I would like to suggest using:
+materials and remember the right pronunciation. In this case, I would like to suggest using:
 </p>
 </dd>
 <ul>
@@ -58,7 +58,7 @@ a deep search through videos' subtitles (for example, <a href="https://youglish.
 <a href="https://youglish.com/pronounce/AI/english"><img src="https://user-images.githubusercontent.com/15892462/183304058-dbe9d1e4-247d-4801-8f2d-e7c218b65293.png" alt="Youglish" /></a>
 <small>language icons below the search form give the possibility to filter videos by a specific accent</small>
 </p>
-The important thing here, that a service should have the possibility to select a specific accent.
+The important thing here is - that a service should have the possibility to select a specific accent.
 </li>
 </ul>
 </dl>

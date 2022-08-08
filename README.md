@@ -12,7 +12,9 @@ it is spelled. Here IPA comes into play because it was created exactly for repre
 
 <details>
 <summary><b style="font-size:1.325em;">I want to learn IPA</b></summary>
-<br>
+<dl>
+
+<dd style="padding:1em;">
 It is important to understand that we are interested only in English IPA. A good starting point might be to find a
 English phonemic chart. Phonemic charts can be interactive or non-interactive. It can be a picture, a document, an app,
 it's not really important. The important thing here is that the chart should be divided in three main blocks (consonants,
@@ -23,15 +25,19 @@ vowels, diphthongs). According to my experience, it is easier to learn the sound
 </div>
 After you are comfortable with the sounds, it is a good idea to make some practice. You can find a good step-by-step article
 on how to learn and practice IPA on [wikihow.com](https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-IPA).
+</dd>
+</dl>
 </details>
-<br>
-<details>
+
+<details style="padding:1em;">
 <summary><b style="font-size:1.325em;">I don't want to learn IPA</b></summary>
-<br>
+<dl>
+
+<dd>
 Fair enough, however you will have to make more effort to find and remember the right pronunciation. So, if you don't
 want to learn IPA the only way to find the right pronunciation is to use audio and video materials. Listen to these
 materials and remember the right pronunciation. In such a case, I would like to suggest using:
-<ul>
+<ul style="margin:1em 0;">
 <li>
 a dictionary with vocalization (for example, <a href="https://dictionary.cambridge.org/us/dictionary/english/ai">Cambridge Dictionary</a>)
 <div align="center">
@@ -50,6 +56,8 @@ a deep search through videos' subtitles (for example, <a href="https://youglish.
 The important thing here, that a service should have the possibility to select a specific accent.
 </li>
 </ul>
+</dd>
+</dl>
 </details>
 
 ## List of words

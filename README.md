@@ -34,7 +34,7 @@ on how to learn and practice IPA on <a href="https://www.wikihow.com/Learn-the-I
 <dl>
 
 <dd>
-Fair enough, however you will have to make more effort to find and remember the right pronunciation. So, if you don't
+Fair enough. However, you will have to make more effort to find and remember the right pronunciation. So, if you don't
 want to learn IPA the only way to find the right pronunciation is to use audio and video materials. Listen to these
 materials and remember the right pronunciation. In such a case, I would like to suggest using:
 <ul style="margin:1em 0;">

@@ -11,25 +11,23 @@ and how it is sound. In English, this relationship is not so strong that is why 
 it is spelled. Here IPA comes into play because it was created exactly for representing speech sounds in written form.
 
 <details>
-<summary style="font-size:1.125em;font-weight:bold;">I want to learn IPA</summary>
-
+<summary><b style="font-size:1.325em;">I want to learn IPA</b></summary>
+<br>
 It is important to understand that we are interested only in English IPA. A good starting point might be to find a
 English phonemic chart. Phonemic charts can be interactive or non-interactive. It can be a picture, a document, an app,
 it's not really important. The important thing here is that the chart should be divided in three main blocks (consonants,
 vowels, diphthongs). According to my experience, it is easier to learn the sounds in groups.
-<br>
 <div align="center">
 
 [![English phonemic chart](https://user-images.githubusercontent.com/15892462/183292223-40400df7-1cbe-4a90-b521-dabd6f67c777.png)](https://www.teachingenglish.org.uk/article/phonemic-chart)
 </div>
 After you are comfortable with the sounds, it is a good idea to make some practice. You can find a good step-by-step article
 on how to learn and practice IPA on [wikihow.com](https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-IPA).
-
 </details>
 <br>
 <details>
-<summary style="font-size:1.125em;font-weight:bold;">I don't want to learn IPA</summary>
-
+<summary><b style="font-size:1.325em;">I don't want to learn IPA</b></summary>
+<br>
 Fair enough, however you will have to make more effort to find and remember the right pronunciation. So, if you don't
 want to learn IPA the only way to find the right pronunciation is to use audio and video materials. Listen to these
 materials and remember the right pronunciation. In such a case, I would like to suggest using:

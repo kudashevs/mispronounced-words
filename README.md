@@ -110,7 +110,7 @@ The important thing here is - that a service should have the possibility to sele
 | cursor | [us /ˈkɝː.sɚ/ uk /ˈkɜː.səʳ/](https://dictionary.cambridge.org/us/dictionary/english/cursor) | |
 | customer |[us /ˈkʌs.tə.mɚ/ uk /ˈkʌs.tə.məʳ/](https://dictionary.cambridge.org/us/dictionary/english/customer) | |
 | <a id="D"></a> data | [us /ˈdeɪ.t̬ə/ /dæt̬.ə/ uk /ˈdeɪ.tə/](https://dictionary.cambridge.org/us/dictionary/english/data ) | |
-| data structure | [us /ˈdeɪ.t̬ə ˈstrʌk.tʃɚ/ uk /ˈdeɪ.tə ˈstrʌk.tʃər/](https://dictionary.cambridge.org/us/dictionary/english/structure) | |
+| data structure | [us /ˈdeɪ.t̬ə ˈstrʌk.tʃɚ/ uk /ˈdeɪ.tə ˈstrʌk.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/structure) | |
 | data-driven |[us /ˈdeɪ.t̬əˌdrɪv.ᵊn/ uk /ˈdeɪ.təˌdrɪv.ᵊn/](https://dictionary.cambridge.org/us/dictionary/english/data-driven) | |
 | database | [us /ˈdeɪ.t̬ə.beɪs/ uk /ˈdeɪ.tə.beɪs/](https://dictionary.cambridge.org/us/dictionary/english/database) | |
 | dateset | [us /ˈdeɪ.t̬ə.set/ uk /ˈdeɪ.tə.set/](https://dictionary.cambridge.org/us/dictionary/english/dataset) | |
@@ -140,8 +140,8 @@ The important thing here is - that a service should have the possibility to sele
 | hierarchical | [us /ˌhaɪˈrɑːr.kɪ.kᵊl/ uk /ˌhaɪəˈrɑː.kɪ.kᵊl/](https://dictionary.cambridge.org/us/dictionary/english/hierarchical) | |
 | hierarchy | [us /ˈhaɪ.rɑːr.ki/ uk /ˈhaɪə.rɑː.ki/](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) | |
 | <a id="I"></a> IDE | us /ˌaɪ.diːˈiː/ uk /ˌaɪ.diːˈiː/ | |
-| infrastructure | [us /ˈɪn.frəˌstrʌk.tʃɚ/ uk /ˈɪn.frəˌstrʌk.tʃər/](https://dictionary.cambridge.org/us/dictionary/english/infrastructure) | |
-| interpreter | [us /ɪnˈtɝː.prə.t̬ɚ/ uk /ɪnˈtɜː.prə.tər/](https://dictionary.cambridge.org/us/dictionary/english/interpreter) | - pay attention to the stress |
+| infrastructure | [us /ˈɪn.frəˌstrʌk.tʃɚ/ uk /ˈɪn.frəˌstrʌk.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/infrastructure) | |
+| interpreter | [us /ɪnˈtɝː.prə.t̬ɚ/ uk /ɪnˈtɜː.prə.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/interpreter) | - pay attention to the stress |
 | invoke |[us /ɪnˈvoʊk/ uk /ɪnˈvəʊk/](https://dictionary.cambridge.org/us/dictionary/english/invoke) | |
 | issue | [us /ˈɪʃ.uː/ /ˈɪs.juː/ uk /ˈɪʃ.uː/ /ˈɪs.juː/](https://dictionary.cambridge.org/us/dictionary/english/issue) | |
 | <a id="K"></a> keyboard | [us /ˈkiː.bɔːrd/ uk /ˈkiː.bɔːd/](https://dictionary.cambridge.org/us/dictionary/english/keyboard) | |
@@ -151,7 +151,7 @@ The important thing here is - that a service should have the possibility to sele
 | <a id="M"></a> machine | [us /məˈʃiːn/ uk /məˈʃiːn/](https://dictionary.cambridge.org/us/dictionary/english/machine)| - pay attention to the stress |
 | machine code | [us /məˈʃiːn ˌkoʊd/ uk /məˈʃiːn ˌkəʊd/](https://dictionary.cambridge.org/us/dictionary/english/machine-code) | |
 | maintain | [us /meɪnˈteɪn/ uk /meɪnˈteɪn/](https://dictionary.cambridge.org/us/dictionary/english/maintain) | - pay attention to the stress (it's a verb) |
-| maintenance | [us /ˈmeɪn.tən.əns/ uk /ˈmeɪn.tən.əns/](https://dictionary.cambridge.org/us/dictionary/english/maintenance) | |
+| maintenance | [us /ˈmeɪn.tᵊn.əns/ uk /ˈmeɪn.tᵊn.əns/](https://dictionary.cambridge.org/us/dictionary/english/maintenance) | |
 | meme |[us /miːm/ uk /miːm/](https://dictionary.cambridge.org/us/dictionary/english/meme) | |
 | methodology |[us /ˌmeθ.əˈdɑː.lə.dʒi/ uk /ˌmeθ.əˈdɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/methodology) | |
 | module | [us /ˈmɑː.dʒuːl/ uk /ˈmɒdʒ.uːl/](https://dictionary.cambridge.org/us/dictionary/english/module) | |
@@ -175,7 +175,7 @@ The important thing here is - that a service should have the possibility to sele
 | route | [us /ruːt/ /raʊt/ uk /ruːt/](https://dictionary.cambridge.org/us/dictionary/english/route) | - in the USA /raʊt/ seems to be predominant |
 | router |[us /ˈraʊ.t̬ɚ/ uk /ˈruː.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/router) | |
 | résumé | [us /ˈrez.ə.meɪ/ uk /ˈrez.juː.meɪ/](https://dictionary.cambridge.org/us/dictionary/english/resume) | |
-| <a id="S"></a> scalable | [us /ˈskeɪ.lə.bəl/ uk /ˈskeɪ.lə.bəl/](https://dictionary.cambridge.org/us/dictionary/english/scalable) | |
+| <a id="S"></a> scalable | [us /ˈskeɪ.lə.bᵊl/ uk /ˈskeɪ.lə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/scalable) | |
 | science | [us /ˈsaɪ.əns/ uk /ˈsaɪ.əns/](https://dictionary.cambridge.org/us/dictionary/english/science) | |
 | scrum | [us /skrʌm/ uk /skrʌm/](https://dictionary.cambridge.org/us/dictionary/english/scrum) | |
 | security | [us /səˈkjʊr.ə.t̬i/ uk /sɪˈkjʊə.rə.ti/](https://dictionary.cambridge.org/us/dictionary/english/security) | - should be pronounced as four syllables |

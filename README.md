@@ -79,6 +79,7 @@ The important thing here is - that a service should have the possibility to sele
 | application | [us /ˌæp.ləˈkeɪ.ʃᵊn/ uk /ˌæp.lɪˈkeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/application) | |
 | architect | [us /ˈɑːr.kə.tekt/ uk /ˈɑː.kɪ.tekt/](https://dictionary.cambridge.org/us/dictionary/english/architect) | |
 | architecture | [us /ˈɑːr.kə.tek.tʃɚ/ uk /ˈɑː.kɪ.tek.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/architecture) | |
+| archive | [us /ˈɑːr.kaɪv/ uk /ˈɑː.kaɪv/](https://dictionary.cambridge.org/us/dictionary/english/archive) | |
 | asynchronous | [us /eɪˈsɪŋ.krə.nəs/ uk /eɪˈsɪŋ.krə.nəs/](https://dictionary.cambridge.org/us/dictionary/english/asynchronous) | |
 | augmented | [us /ɑːɡˈmentɪd/ uk /ɔːɡˈmentɪd/](https://dictionary.cambridge.org/us/dictionary/english/augment) | - refers to augmented reality |
 | authentication | [us /ɑːˌθen.t̬əˈkeɪ.ʃᵊn/ uk /ɔːˌθen.tɪˈkeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/authentication) | |
@@ -126,6 +127,7 @@ The important thing here is - that a service should have the possibility to sele
 | enterprise | [us /ˈen.t̬ɚ.praɪz/ uk /ˈen.tə.praɪz/](https://dictionary.cambridge.org/us/dictionary/english/enterprise) | |
 | entrepreneur | [us /ˌɑːn.trə.prəˈnɝː/ uk /ˌɒn.trə.prəˈnɜːʳ/](https://dictionary.cambridge.org/us/dictionary/english/entrepreneur ) | |
 | example | [us /ɪɡˈzæm.pᵊl/ uk /ɪɡˈzɑːm.pᵊl/](https://dictionary.cambridge.org/us/dictionary/english/example) | |
+| exclude | [us /ɪkˈskluːd/ uk /ɪkˈskluːd/](https://dictionary.cambridge.org/us/dictionary/english/exclude) | |
 | executable | [us /ˈek.sɪ.kjuː.t̬ə.bᵊl/ uk /ˈek.sɪ.kjuː.tə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/executable) | |
 | <a id="F"></a> fail |[us /feɪl/ uk /feɪl/](https://dictionary.cambridge.org/us/dictionary/english/fail) | |
 | feature | [us /ˈfiː.tʃɚ/ uk /ˈfiː.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/feature) | |
@@ -140,7 +142,9 @@ The important thing here is - that a service should have the possibility to sele
 | hierarchical | [us /ˌhaɪˈrɑːr.kɪ.kᵊl/ uk /ˌhaɪəˈrɑː.kɪ.kᵊl/](https://dictionary.cambridge.org/us/dictionary/english/hierarchical) | |
 | hierarchy | [us /ˈhaɪ.rɑːr.ki/ uk /ˈhaɪə.rɑː.ki/](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) | |
 | <a id="I"></a> IDE | us /ˌaɪ.diːˈiː/ uk /ˌaɪ.diːˈiː/ | |
+| include | [us /ɪnˈkluːd/ uk /ɪnˈkluːd/](https://dictionary.cambridge.org/us/dictionary/english/include) | |
 | infrastructure | [us /ˈɪn.frəˌstrʌk.tʃɚ/ uk /ˈɪn.frəˌstrʌk.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/infrastructure) | |
+| install | [us /ɪnˈstɑːl/ uk /ɪnˈstɔːl/](https://dictionary.cambridge.org/us/dictionary/english/install) | - pay attention to the UK pronunciation |
 | interpreter | [us /ɪnˈtɝː.prə.t̬ɚ/ uk /ɪnˈtɜː.prə.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/interpreter) | - pay attention to the stress |
 | invoke |[us /ɪnˈvoʊk/ uk /ɪnˈvəʊk/](https://dictionary.cambridge.org/us/dictionary/english/invoke) | |
 | issue | [us /ˈɪʃ.uː/ /ˈɪs.juː/ uk /ˈɪʃ.uː/ /ˈɪs.juː/](https://dictionary.cambridge.org/us/dictionary/english/issue) | |
@@ -152,6 +156,7 @@ The important thing here is - that a service should have the possibility to sele
 | machine code | [us /məˈʃiːn ˌkoʊd/ uk /məˈʃiːn ˌkəʊd/](https://dictionary.cambridge.org/us/dictionary/english/machine-code) | |
 | maintain | [us /meɪnˈteɪn/ uk /meɪnˈteɪn/](https://dictionary.cambridge.org/us/dictionary/english/maintain) | - pay attention to the stress (it's a verb) |
 | maintenance | [us /ˈmeɪn.tᵊn.əns/ uk /ˈmeɪn.tᵊn.əns/](https://dictionary.cambridge.org/us/dictionary/english/maintenance) | |
+| manager | [us /ˈmæn.ə.dʒɚ/ uk /ˈmæn.ɪ.dʒəʳ/](https://dictionary.cambridge.org/us/dictionary/english/manager) | |
 | meme |[us /miːm/ uk /miːm/](https://dictionary.cambridge.org/us/dictionary/english/meme) | |
 | methodology |[us /ˌmeθ.əˈdɑː.lə.dʒi/ uk /ˌmeθ.əˈdɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/methodology) | |
 | module | [us /ˈmɑː.dʒuːl/ uk /ˈmɒdʒ.uːl/](https://dictionary.cambridge.org/us/dictionary/english/module) | |
@@ -169,7 +174,9 @@ The important thing here is - that a service should have the possibility to sele
 | <a id="Q"></a> queue | [us /kjuː/ uk /kjuː/](https://dictionary.cambridge.org/us/dictionary/english/queue) | |
 | <a id="R"></a> random | [us /ˈræn.dəm/ uk /ˈræn.dəm/](https://dictionary.cambridge.org/us/dictionary/english/random) | - pay attention to the stress |
 | recipe |[us /ˈres.ə.pi/ uk /ˈres.ɪ.pi/](https://dictionary.cambridge.org/us/dictionary/english/recipe) | |
-| recursion | [us /rɪˈkɝː.ʒən/ uk /rɪˈkɜː.ʒən/](https://dictionary.cambridge.org/us/dictionary/english/recursion) | - but recursively is pronounced differently |
+| recursion | [us /rɪˈkɝː.ʒən/ uk /rɪˈkɜː.ʒən/](https://dictionary.cambridge.org/us/dictionary/english/recursion) | - but recursive is pronounced differently |
+| recursive | [us /rɪˈkɝː.sɪv/ uk /rɪˈkɜː.sɪv/](https://dictionary.cambridge.org/us/dictionary/english/recursive) | |
+| return | [us /rɪˈtɝːn/ uk /rɪˈtɜːn/](https://dictionary.cambridge.org/us/dictionary/english/return) | |
 | retina |[us /ˈret.ᵊn.ə/ uk /ˈret.ɪ.nə/](https://dictionary.cambridge.org/us/dictionary/english/retina) | |
 | robust | [us /roʊˈbʌst/ uk /rəʊˈbʌst/](https://dictionary.cambridge.org/us/dictionary/english/robust) | - pay attention to the stress  |
 | route | [us /ruːt/ /raʊt/ uk /ruːt/](https://dictionary.cambridge.org/us/dictionary/english/route) | - in the USA /raʊt/ seems to be predominant |
@@ -191,6 +198,7 @@ The important thing here is - that a service should have the possibility to sele
 | technology | [us /tekˈnɑː.lə.dʒi/ uk /tekˈnɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/technology) | |
 | template | [us /ˈtem.plət/ uk /ˈtem.pleɪt/](https://dictionary.cambridge.org/us/dictionary/english/template) | |
 | thesis | [us /ˈθiː.sɪs/ uk /ˈθiː.sɪs/](https://dictionary.cambridge.org/us/dictionary/english/thesis) | |
+| thread | [us /θred/ uk /θred/](https://dictionary.cambridge.org/us/dictionary/english/thread) | |
 | <a id="U"></a> undo | [us /ʌnˈduː/ uk /ʌnˈduː/](https://dictionary.cambridge.org/us/dictionary/english/undo) | |
 | <a id="V"></a> vulnerability | [us /ˌvʌl.nɚ.əˈbɪl.ə.t̬i/ uk /ˌvʌl.nᵊr.əˈbɪl.ə.ti/ /ˌvʌn.rəˈbɪl.ə.ti/](https://dictionary.cambridge.org/us/dictionary/english/vulnerability) | |
 | vulnerable | [us /ˈvʌl.nɚ.ə.bᵊl/ uk /ˈvʌl.nᵊr.ə.bᵊl/ /ˈvʌn.rə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |

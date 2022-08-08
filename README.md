@@ -19,12 +19,12 @@ It is important to understand that we are interested only in English IPA. A good
 English phonemic chart. Phonemic charts can be interactive or non-interactive. It can be a picture, a document, an app,
 it's not really important. The important thing here is that the chart should be divided in three main blocks (consonants,
 vowels, diphthongs). According to my experience, it is easier to learn the sounds in groups.
-<div align="center">
-
-[![English phonemic chart](https://user-images.githubusercontent.com/15892462/183292223-40400df7-1cbe-4a90-b521-dabd6f67c777.png)](https://www.teachingenglish.org.uk/article/phonemic-chart)
-</div>
+&nbsp;
+<p align="center">
+<a href="https://www.teachingenglish.org.uk/article/phonemic-chart"><img src="https://user-images.githubusercontent.com/15892462/183292223-40400df7-1cbe-4a90-b521-dabd6f67c777.png" alt="English phonemic chart" /></a>
+</p>
 After you are comfortable with the sounds, it is a good idea to make some practice. You can find a good step-by-step article
-on how to learn and practice IPA on [wikihow.com](https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-IPA).
+on how to learn and practice IPA on <a href="https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-IPA">wikihow.com</a>.
 </dd>
 </dl>
 </details>
@@ -40,19 +40,17 @@ materials and remember the right pronunciation. In such a case, I would like to 
 <ul style="margin:1em 0;">
 <li>
 a dictionary with vocalization (for example, <a href="https://dictionary.cambridge.org/us/dictionary/english/ai">Cambridge Dictionary</a>)
-<div align="center">
-
-[![Cambridge Dictionary](https://user-images.githubusercontent.com/15892462/183303994-a989e0a8-9698-4a23-95c7-fde5f3dc4769.png)](https://dictionary.cambridge.org/us/dictionary/english/ai)
+<p align="center">
+<a href="https://dictionary.cambridge.org/us/dictionary/english/ai"><img src="https://user-images.githubusercontent.com/15892462/183303994-a989e0a8-9698-4a23-95c7-fde5f3dc4769.png" alt="Cambridge Dictionary" /></a>
 *audio icons are interactive and give the possibility to listen to the pronunciation of a word in different accents*
-</div>
+</p>
 </li>
 <li>
 a deep search through videos' subtitles (for example, <a href="https://youglish.com/pronounce/AI/english">Youglish service</a>)
-<div align="center">
-
-[![Youglish](https://user-images.githubusercontent.com/15892462/183304058-dbe9d1e4-247d-4801-8f2d-e7c218b65293.png)](https://youglish.com/pronounce/AI/english)
+<p align="center">
+<a href="https://youglish.com/pronounce/AI/english"><img src="https://user-images.githubusercontent.com/15892462/183304058-dbe9d1e4-247d-4801-8f2d-e7c218b65293.png" alt="Youglish" /></a>
 *language icons below the search form give the possibility to filter videos by a specific accent*
-</div>
+</p>
 The important thing here, that a service should have the possibility to select a specific accent.
 </li>
 </ul>

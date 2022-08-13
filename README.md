@@ -221,7 +221,7 @@ The important thing here is - that a service should have the possibility to sele
 | <a id="V"></a> virus | [us /ˈvaɪ.rəs/ uk /ˈvaɪə.rəs/](https://dictionary.cambridge.org/us/dictionary/english/virus) | |
 | vulnerability | [us /ˌvʌl.nɚ.əˈbɪl.ə.t̬i/ uk /ˌvʌl.nᵊr.əˈbɪl.ə.ti/ /ˌvʌn.rəˈbɪl.ə.ti/](https://dictionary.cambridge.org/us/dictionary/english/vulnerability) | |
 | vulnerable | [us /ˈvʌl.nɚ.ə.bᵊl/ uk /ˈvʌl.nᵊr.ə.bᵊl/ /ˈvʌn.rə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |
-| <a id="W"></a> WIFI | [us /ˈwaɪ.faɪ/ uk /ˈwaɪ.faɪ/](https://dictionary.cambridge.org/us/dictionary/english/wi-fi) | |
+| <a id="W"></a> WiFi | [us /ˈwaɪ.faɪ/ uk /ˈwaɪ.faɪ/](https://dictionary.cambridge.org/us/dictionary/english/wi-fi) | |
 | WYSIWYG | [us /ˈwɪz.i.wɪɡ/ uk /ˈwɪz.i.wɪɡ/](https://dictionary.cambridge.org/us/dictionary/english/wysiwyg) | |
 | <a id="X"></a> Xerox | [us /ˈzɪr.ɑːks/ uk /ˈzɪə.rɒks/](https://dictionary.cambridge.org/us/dictionary/english/xerox) | |
 

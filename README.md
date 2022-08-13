@@ -83,6 +83,7 @@ The important thing here is - that a service should have the possibility to sele
 | archive | [us /ˈɑːr.kaɪv/ uk /ˈɑː.kaɪv/](https://dictionary.cambridge.org/us/dictionary/english/archive) | |
 | asynchronous | [us /eɪˈsɪŋ.krə.nəs/ uk /eɪˈsɪŋ.krə.nəs/](https://dictionary.cambridge.org/us/dictionary/english/asynchronous) | |
 | augmented | [us /ɑːɡˈmentɪd/ uk /ɔːɡˈmentɪd/](https://dictionary.cambridge.org/us/dictionary/english/augment) | - refers to augmented reality |
+| autocomplete | [us /ˈɑː.t̬oʊ.kəmˌpliːt/ uk /ˈɔː.təʊ.kəmˌpliːt/](https://dictionary.cambridge.org/us/dictionary/english/autocomplete) | |
 | authentication | [us /ɑːˌθen.t̬əˈkeɪ.ʃᵊn/ uk /ɔːˌθen.tɪˈkeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/authentication) | |
 | authorization | [us /ˌɑː.θɚ.əˈzeɪ.ʃᵊn/ uk /ˌɔː.θər.aɪˈzeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/authorization) | |
 | automation | [us /ˌɑː.t̬əˈmeɪ.ʃᵊn/ uk /ˌɔː.təˈmeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/automation) | - refers to automation engineer |
@@ -131,6 +132,7 @@ The important thing here is - that a service should have the possibility to sele
 | example | [us /ɪɡˈzæm.pᵊl/ uk /ɪɡˈzɑːm.pᵊl/](https://dictionary.cambridge.org/us/dictionary/english/example) | |
 | exclude | [us /ɪkˈskluːd/ uk /ɪkˈskluːd/](https://dictionary.cambridge.org/us/dictionary/english/exclude) | |
 | executable | [us /ˈek.sɪ.kjuː.t̬ə.bᵊl/ uk /ˈek.sɪ.kjuː.tə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/executable) | |
+| event | [us /ɪˈvent/ uk /ɪˈvent/](https://dictionary.cambridge.org/us/dictionary/english/event) | refers to event-driven architecture |
 | <a id="F"></a> fail |[us /feɪl/ uk /feɪl/](https://dictionary.cambridge.org/us/dictionary/english/fail) | |
 | feature | [us /ˈfiː.tʃɚ/ uk /ˈfiː.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/feature) | |
 | file |[us /faɪl/ uk /faɪl/](https://dictionary.cambridge.org/us/dictionary/english/file) | |
@@ -149,9 +151,11 @@ The important thing here is - that a service should have the possibility to sele
 | include | [us /ɪnˈkluːd/ uk /ɪnˈkluːd/](https://dictionary.cambridge.org/us/dictionary/english/include) | |
 | infrastructure | [us /ˈɪn.frəˌstrʌk.tʃɚ/ uk /ˈɪn.frəˌstrʌk.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/infrastructure) | |
 | install | [us /ɪnˈstɑːl/ uk /ɪnˈstɔːl/](https://dictionary.cambridge.org/us/dictionary/english/install) | - pay attention to the UK pronunciation |
+| interface | [us /ˈɪn.t̬ɚ.feɪs/ uk /ˈɪn.tə.feɪs/](https://dictionary.cambridge.org/us/dictionary/english/interface) | - pay attention to the stress | |
 | interpreter | [us /ɪnˈtɝː.prə.t̬ɚ/ uk /ɪnˈtɜː.prə.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/interpreter) | - pay attention to the stress |
 | invoke |[us /ɪnˈvoʊk/ uk /ɪnˈvəʊk/](https://dictionary.cambridge.org/us/dictionary/english/invoke) | |
 | issue | [us /ˈɪʃ.uː/ /ˈɪs.juː/ uk /ˈɪʃ.uː/ /ˈɪs.juː/](https://dictionary.cambridge.org/us/dictionary/english/issue) | |
+| IT | us /ˌaɪˈtiː/ uk /ˌaɪˈtiː/ | |
 | <a id="K"></a> keyboard | [us /ˈkiː.bɔːrd/ uk /ˈkiː.bɔːd/](https://dictionary.cambridge.org/us/dictionary/english/keyboard) | |
 | <a id="L"></a> launch | [us /lɑːntʃ/ uk /lɔːntʃ/](https://dictionary.cambridge.org/us/dictionary/english/launch) | |
 | leverage | [us /ˈlev.ɚ.ɪdʒ/ uk /ˈliː.vᵊr.ɪdʒ/](https://dictionary.cambridge.org/us/dictionary/english/leverage) | |
@@ -163,6 +167,7 @@ The important thing here is - that a service should have the possibility to sele
 | maintain | [us /meɪnˈteɪn/ uk /meɪnˈteɪn/](https://dictionary.cambridge.org/us/dictionary/english/maintain) | - pay attention to the stress (it's a verb) |
 | maintenance | [us /ˈmeɪn.tᵊn.əns/ uk /ˈmeɪn.tᵊn.əns/](https://dictionary.cambridge.org/us/dictionary/english/maintenance) | |
 | manager | [us /ˈmæn.ə.dʒɚ/ uk /ˈmæn.ɪ.dʒəʳ/](https://dictionary.cambridge.org/us/dictionary/english/manager) | |
+| merge | [us /mɝːdʒ/ uk /mɜːdʒ/](https://dictionary.cambridge.org/us/dictionary/english/merge) | |
 | meme |[us /miːm/ uk /miːm/](https://dictionary.cambridge.org/us/dictionary/english/meme) | |
 | methodology |[us /ˌmeθ.əˈdɑː.lə.dʒi/ uk /ˌmeθ.əˈdɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/methodology) | |
 | module | [us /ˈmɑː.dʒuːl/ uk /ˈmɒdʒ.uːl/](https://dictionary.cambridge.org/us/dictionary/english/module) | |
@@ -171,7 +176,9 @@ The important thing here is - that a service should have the possibility to sele
 | null | [us /nʌl/ uk /nʌl/](https://dictionary.cambridge.org/us/dictionary/english/null) | |
 | number | [us /ˈnʌm.bɚ/ uk /ˈnʌm.bəʳ/](https://dictionary.cambridge.org/us/dictionary/english/number) | |
 | <a id="O"></a> open-source | [us /ˌoʊ.pənˈsɔːrs/ uk /ˌəʊ.pənˈsɔːs/](https://dictionary.cambridge.org/us/dictionary/english/open-source) | |
+| overflow | [us /ˌoʊ.vɚˈfloʊ/ uk /ˌəʊ.vəˈfləʊ/](https://dictionary.cambridge.org/us/dictionary/english/overflow)
 | <a id="P"></a> paradigm | [us /ˈper.ə.daɪm/ uk /ˈpær.ə.daɪm/](https://dictionary.cambridge.org/us/dictionary/english/paradigm) | |
+| patent | [us /ˈpæt.ᵊnt/ uk /ˈpeɪ.tᵊnt/](https://dictionary.cambridge.org/us/dictionary/english/patent)
 | pivot | [us /ˈpɪv.ət/ uk /ˈpɪv.ət/](https://dictionary.cambridge.org/us/dictionary/english/pivot) | - refers to pivot table |
 | procedure | [us /prəˈsiː.dʒɚ/ uk /prəˈsiː.dʒəʳ/](https://dictionary.cambridge.org/us/dictionary/english/procedure) | |
 | procedural | [us /prəˈsiː.dʒɚ.ᵊl/ uk /prəˈsiː.dʒᵊr.ᵊl/](https://dictionary.cambridge.org/us/dictionary/english/procedural) | |
@@ -184,6 +191,8 @@ The important thing here is - that a service should have the possibility to sele
 | recipe |[us /ˈres.ə.pi/ uk /ˈres.ɪ.pi/](https://dictionary.cambridge.org/us/dictionary/english/recipe) | |
 | recursion | [us /rɪˈkɝː.ʒən/ uk /rɪˈkɜː.ʒən/](https://dictionary.cambridge.org/us/dictionary/english/recursion) | - but recursive is pronounced differently |
 | recursive | [us /rɪˈkɝː.sɪv/ uk /rɪˈkɜː.sɪv/](https://dictionary.cambridge.org/us/dictionary/english/recursive) | |
+| request | [us /rɪˈkwest/ uk /rɪˈkwest/](https://dictionary.cambridge.org/us/dictionary/english/request) | |
+| response | [us /rɪˈspɑːns/ uk /rɪˈspɒns/](https://dictionary.cambridge.org/us/dictionary/english/response) | |
 | return | [us /rɪˈtɝːn/ uk /rɪˈtɜːn/](https://dictionary.cambridge.org/us/dictionary/english/return) | |
 | retina |[us /ˈret.ᵊn.ə/ uk /ˈret.ɪ.nə/](https://dictionary.cambridge.org/us/dictionary/english/retina) | |
 | robust | [us /roʊˈbʌst/ uk /rəʊˈbʌst/](https://dictionary.cambridge.org/us/dictionary/english/robust) | - pay attention to the stress  |

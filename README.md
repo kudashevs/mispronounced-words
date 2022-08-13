@@ -71,8 +71,8 @@ The important thing here is - that a service should have the possibility to sele
 | Word | Transcription | Comment |
 | ---- | ------------- | ------- |
 | <a id="A"></a> adobe | [us /əˈdoʊ.bi/ uk /əˈdəʊ.bi/](https://dictionary.cambridge.org/us/dictionary/english/adobe) | |
-| AI | [us /ˌeɪˈaɪ/ uk /ˌeɪˈaɪ/](https://dictionary.cambridge.org/us/dictionary/english/ai) | |
-| API | [us /ˌeɪ.piˈaɪ/ uk /ˌeɪ.piˈaɪ/](https://dictionary.cambridge.org/us/dictionary/english/api) | |
+| AI | [us /ˌeɪˈaɪ/ uk /ˌeɪˈaɪ/](https://dictionary.cambridge.org/us/dictionary/english/ai) | - an acronym for Artificial Intelligence |
+| API | [us /ˌeɪ.piˈaɪ/ uk /ˌeɪ.piˈaɪ/](https://dictionary.cambridge.org/us/dictionary/english/api) | - an acronym for Application Programming Interface|
 | agenda | [us /əˈdʒen.də/ uk /əˈdʒen.də/](https://dictionary.cambridge.org/us/dictionary/english/agenda) | |
 | agile | [us /ˈædʒ.ᵊl/ /ˈædʒ.aɪl/ uk /ˈædʒ.aɪl/](https://dictionary.cambridge.org/us/dictionary/english/agile) | - refers to agile methodology<br>- in the USA /ˈædʒ.aɪl/ seems to be predominant |
 | alias | [us /ˈeɪ.li.əs/ uk /ˈeɪ.li.əs/](https://dictionary.cambridge.org/us/dictionary/english/alias) | |
@@ -110,7 +110,7 @@ The important thing here is - that a service should have the possibility to sele
 | computer |[us /kəmˈpjuː.t̬ɚ/ uk /kəmˈpjuː.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/computer) | |
 | continuous | [us /kənˈtɪn.ju.əs/ uk /kənˈtɪn.ju.əs/](https://dictionary.cambridge.org/us/dictionary/english/continuous) | - refers to continuous delivery |
 | crawler | [us /ˈkrɑː.lɚ/ uk /ˈkrɔː.ləʳ/](https://dictionary.cambridge.org/us/dictionary/english/crawler) | - refers to web crawler |
-| current | [us /ˈkɝː.ᵊnt/ uk /ˈkʌr.ᵊnt/](https://dictionary.cambridge.org/us/dictionary/english/current) | |
+| current | [us /ˈkɝː.ᵊnt/ uk /ˈkʌr.ᵊnt/](https://dictionary.cambridge.org/us/dictionary/english/current) | - refers to current issue|
 | cursor | [us /ˈkɝː.sɚ/ uk /ˈkɜː.səʳ/](https://dictionary.cambridge.org/us/dictionary/english/cursor) | |
 | customer |[us /ˈkʌs.tə.mɚ/ uk /ˈkʌs.tə.məʳ/](https://dictionary.cambridge.org/us/dictionary/english/customer) | |
 | <a id="D"></a> data | [us /ˈdeɪ.t̬ə/ /dæt̬.ə/ uk /ˈdeɪ.tə/](https://dictionary.cambridge.org/us/dictionary/english/data ) | |
@@ -132,7 +132,7 @@ The important thing here is - that a service should have the possibility to sele
 | example | [us /ɪɡˈzæm.pᵊl/ uk /ɪɡˈzɑːm.pᵊl/](https://dictionary.cambridge.org/us/dictionary/english/example) | |
 | exclude | [us /ɪkˈskluːd/ uk /ɪkˈskluːd/](https://dictionary.cambridge.org/us/dictionary/english/exclude) | |
 | executable | [us /ˈek.sɪ.kjuː.t̬ə.bᵊl/ uk /ˈek.sɪ.kjuː.tə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/executable) | |
-| event | [us /ɪˈvent/ uk /ɪˈvent/](https://dictionary.cambridge.org/us/dictionary/english/event) | refers to event-driven architecture |
+| event | [us /ɪˈvent/ uk /ɪˈvent/](https://dictionary.cambridge.org/us/dictionary/english/event) | - refers to event-driven architecture |
 | <a id="F"></a> fail |[us /feɪl/ uk /feɪl/](https://dictionary.cambridge.org/us/dictionary/english/fail) | |
 | feature | [us /ˈfiː.tʃɚ/ uk /ˈfiː.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/feature) | |
 | file |[us /faɪl/ uk /faɪl/](https://dictionary.cambridge.org/us/dictionary/english/file) | |
@@ -140,14 +140,14 @@ The important thing here is - that a service should have the possibility to sele
 | flaw | [us /flɑː/ uk/flɔː/](https://dictionary.cambridge.org/us/dictionary/english/flaw) | |
 | function | [us /ˈfʌŋk.ʃᵊn/ uk /ˈfʌŋk.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/function) | |
 | functional | [us /ˈfʌŋk.ʃᵊn.ᵊl/ uk /ˈfʌŋk.ʃᵊn.ᵊl/](https://dictionary.cambridge.org/us/dictionary/english/functional) | - refers to functional programming |
-| <a id="G"></a> GIF | [us /ɡɪf/ uk /ɡɪf/](https://dictionary.cambridge.org/us/dictionary/english/gif) | - but apparently it is [/dʒif/](https://en.wikipedia.org/wiki/Pronunciation_of_GIF) |
-| guard | [us /ɡɑːrd/ uk /ɡɑːd/](https://dictionary.cambridge.org/us/dictionary/english/guard) | refers to guard clause (defensive programming) |
+| <a id="G"></a> GIF | [us /ɡɪf/ uk /ɡɪf/](https://dictionary.cambridge.org/us/dictionary/english/gif) | - apparently it is [/dʒif/](https://en.wikipedia.org/wiki/Pronunciation_of_GIF)<br>- an acronym for Graphics Interchange Format |
+| guard | [us /ɡɑːrd/ uk /ɡɑːd/](https://dictionary.cambridge.org/us/dictionary/english/guard) | - refers to guard clause (defensive programming) |
 | <a id="H"></a> hackathon | [us /ˈhæk.ə.θɑːn/ uk /ˈhæk.ə.θɒn/](https://dictionary.cambridge.org/us/dictionary/english/hackathon) | - pay attention to the th sound |
 | header | [us /ˈhed.ɚ/ uk /ˈhed.əʳ/](https://dictionary.cambridge.org/us/dictionary/english/header) | |
 | height | [us /haɪt/ uk /haɪt/](https://dictionary.cambridge.org/us/dictionary/english/height) | |
 | hierarchical | [us /ˌhaɪˈrɑːr.kɪ.kᵊl/ uk /ˌhaɪəˈrɑː.kɪ.kᵊl/](https://dictionary.cambridge.org/us/dictionary/english/hierarchical) | |
 | hierarchy | [us /ˈhaɪ.rɑːr.ki/ uk /ˈhaɪə.rɑː.ki/](https://dictionary.cambridge.org/us/dictionary/english/hierarchy) | |
-| <a id="I"></a> IDE | us /ˌaɪ.diːˈiː/ uk /ˌaɪ.diːˈiː/ | |
+| <a id="I"></a> IDE | us /ˌaɪ.diːˈiː/ uk /ˌaɪ.diːˈiː/ | - an acronym for Integrated Development Environment |
 | include | [us /ɪnˈkluːd/ uk /ɪnˈkluːd/](https://dictionary.cambridge.org/us/dictionary/english/include) | |
 | infrastructure | [us /ˈɪn.frəˌstrʌk.tʃɚ/ uk /ˈɪn.frəˌstrʌk.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/infrastructure) | |
 | install | [us /ɪnˈstɑːl/ uk /ɪnˈstɔːl/](https://dictionary.cambridge.org/us/dictionary/english/install) | - pay attention to the UK pronunciation |
@@ -155,7 +155,7 @@ The important thing here is - that a service should have the possibility to sele
 | interpreter | [us /ɪnˈtɝː.prə.t̬ɚ/ uk /ɪnˈtɜː.prə.təʳ/](https://dictionary.cambridge.org/us/dictionary/english/interpreter) | - pay attention to the stress |
 | invoke |[us /ɪnˈvoʊk/ uk /ɪnˈvəʊk/](https://dictionary.cambridge.org/us/dictionary/english/invoke) | |
 | issue | [us /ˈɪʃ.uː/ /ˈɪs.juː/ uk /ˈɪʃ.uː/ /ˈɪs.juː/](https://dictionary.cambridge.org/us/dictionary/english/issue) | |
-| IT | us /ˌaɪˈtiː/ uk /ˌaɪˈtiː/ | |
+| IT | us /ˌaɪˈtiː/ uk /ˌaɪˈtiː/ | - an acronym for Information Technology |
 | <a id="K"></a> keyboard | [us /ˈkiː.bɔːrd/ uk /ˈkiː.bɔːd/](https://dictionary.cambridge.org/us/dictionary/english/keyboard) | |
 | <a id="L"></a> launch | [us /lɑːntʃ/ uk /lɔːntʃ/](https://dictionary.cambridge.org/us/dictionary/english/launch) | |
 | leverage | [us /ˈlev.ɚ.ɪdʒ/ uk /ˈliː.vᵊr.ɪdʒ/](https://dictionary.cambridge.org/us/dictionary/english/leverage) | |
@@ -212,7 +212,7 @@ The important thing here is - that a service should have the possibility to sele
 | status | [us /ˈsteɪ.t̬əs/ uk /ˈsteɪ.təs/](https://dictionary.cambridge.org/us/dictionary/english/status) | |
 | suite |[us /swiːt/ uk /swiːt/](https://dictionary.cambridge.org/us/dictionary/english/suite) | - refers to Adobe suite |
 | <a id="T"></a> tech | [us /tek/ uk /tek/](https://dictionary.cambridge.org/us/dictionary/english/tech) | |
-| technology | [us /tekˈnɑː.lə.dʒi/ uk /tekˈnɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/technology) | |
+| technology | [us /tekˈnɑː.lə.dʒi/ uk /tekˈnɒl.ə.dʒi/](https://dictionary.cambridge.org/us/dictionary/english/technology) | - refers to IT |
 | technological | [us /ˌtek.nəˈlɑː.dʒɪ.kᵊl/ uk /ˌtek.nəˈlɒdʒ.ɪ.kᵊl/](https://dictionary.cambridge.org/us/dictionary/english/technological) | |
 | template | [us /ˈtem.plət/ uk /ˈtem.pleɪt/](https://dictionary.cambridge.org/us/dictionary/english/template) | |
 | thesis | [us /ˈθiː.sɪs/ uk /ˈθiː.sɪs/](https://dictionary.cambridge.org/us/dictionary/english/thesis) | |
@@ -222,7 +222,7 @@ The important thing here is - that a service should have the possibility to sele
 | vulnerability | [us /ˌvʌl.nɚ.əˈbɪl.ə.t̬i/ uk /ˌvʌl.nᵊr.əˈbɪl.ə.ti/ /ˌvʌn.rəˈbɪl.ə.ti/](https://dictionary.cambridge.org/us/dictionary/english/vulnerability) | |
 | vulnerable | [us /ˈvʌl.nɚ.ə.bᵊl/ uk /ˈvʌl.nᵊr.ə.bᵊl/ /ˈvʌn.rə.bᵊl/](https://dictionary.cambridge.org/us/dictionary/english/vulnerable) | |
 | <a id="W"></a> WiFi | [us /ˈwaɪ.faɪ/ uk /ˈwaɪ.faɪ/](https://dictionary.cambridge.org/us/dictionary/english/wi-fi) | |
-| WYSIWYG | [us /ˈwɪz.i.wɪɡ/ uk /ˈwɪz.i.wɪɡ/](https://dictionary.cambridge.org/us/dictionary/english/wysiwyg) | |
+| WYSIWYG | [us /ˈwɪz.i.wɪɡ/ uk /ˈwɪz.i.wɪɡ/](https://dictionary.cambridge.org/us/dictionary/english/wysiwyg) | - an acronym for What You See Is What You Get |
 | <a id="X"></a> Xerox | [us /ˈzɪr.ɑːks/ uk /ˈzɪə.rɒks/](https://dictionary.cambridge.org/us/dictionary/english/xerox) | |
 
 Let's communicate smoothly and effectively. Happy communication!

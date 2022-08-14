@@ -81,8 +81,10 @@ The important thing here is - that a service should have the possibility to sele
 | architect | [us /ˈɑːr.kə.tekt/ uk /ˈɑː.kɪ.tekt/](https://dictionary.cambridge.org/us/dictionary/english/architect) | |
 | architecture | [us /ˈɑːr.kə.tek.tʃɚ/ uk /ˈɑː.kɪ.tek.tʃəʳ/](https://dictionary.cambridge.org/us/dictionary/english/architecture) | |
 | archive | [us /ˈɑːr.kaɪv/ uk /ˈɑː.kaɪv/](https://dictionary.cambridge.org/us/dictionary/english/archive) | |
+| assignment | [us /əˈsaɪn.mənt/ uk /əˈsaɪn.mənt/](https://dictionary.cambridge.org/us/dictionary/english/assignment) | |
 | asynchronous | [us /eɪˈsɪŋ.krə.nəs/ uk /eɪˈsɪŋ.krə.nəs/](https://dictionary.cambridge.org/us/dictionary/english/asynchronous) | |
 | augmented | [us /ɑːɡˈmentɪd/ uk /ɔːɡˈmentɪd/](https://dictionary.cambridge.org/us/dictionary/english/augment) | - refers to augmented reality |
+| augmented reality | [us /ɑːɡˌmentɪd riˈæl.ə.t̬i/ uk /ɔːɡˌmentɪd riˈæl.ɪ.ti/](https://dictionary.cambridge.org/us/dictionary/english/augmented-reality) | |
 | autocomplete | [us /ˈɑː.t̬oʊ.kəmˌpliːt/ uk /ˈɔː.təʊ.kəmˌpliːt/](https://dictionary.cambridge.org/us/dictionary/english/autocomplete) | |
 | authentication | [us /ɑːˌθen.t̬əˈkeɪ.ʃᵊn/ uk /ɔːˌθen.tɪˈkeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/authentication) | |
 | authorization | [us /ˌɑː.θɚ.əˈzeɪ.ʃᵊn/ uk /ˌɔː.θər.aɪˈzeɪ.ʃᵊn/](https://dictionary.cambridge.org/us/dictionary/english/authorization) | |

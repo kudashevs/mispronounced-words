@@ -64,6 +64,13 @@ The important thing here is - that a service should have the possibility to sele
 </dl>
 </details>
 
+## How to use this list
+
+The list includes a word, a transcription of the word, links to video and audio materials, and comments. If you are
+confident with the IPA, it may be enough for you to just read the transcription of the word. If you are not familiar
+with it, just use the interactive materials. In these materials, you will find a link to youglish.com (a tool that helps
+to find the pronunciation of a certain word in YouTube videos) and links to various dictionaries with audio samples.
+
 ## List of words
 
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) J [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) Y Z

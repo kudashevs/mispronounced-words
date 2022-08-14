@@ -75,8 +75,8 @@ to find the pronunciation of a certain word in YouTube videos) and links to vari
 
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) J [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) Y Z
 
-| Word | Transcription | Video/Audio materials | Comment |
-| ---- | ------------- | --------------------- | ------- |
+| Word | Transcription | Video/Audio materials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Comment |
+| ---- | ------------- | --------------------------------------------------------------------------------------------------------- | ------- |
 | <a id="A"></a> adobe | us /əˈdoʊ.bi/<br>uk /əˈdəʊ.bi/ | [:tv:YouGlish](https://youglish.com/pronounce/adobe/english?)&nbsp;&nbsp;[:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/adobe)&nbsp;&nbsp;[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/adobe)&nbsp;&nbsp;[:blue_book:Longman](https://www.ldoceonline.com/dictionary/adobe) | |
 | AI | us /ˌeɪˈaɪ/<br>uk /ˌeɪˈaɪ/ | [:tv:YouGlish](https://youglish.com/pronounce/ai/english?)&nbsp;&nbsp;[:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/ai)&nbsp;&nbsp;[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/ai)&nbsp;&nbsp;[:blue_book:Longman](https://www.ldoceonline.com/dictionary/ai) | - an acronym for "Artificial Intelligence" |
 | API | us /ˌeɪ.piˈaɪ/<br>uk /ˌeɪ.piˈaɪ/ | [:tv:YouGlish](https://youglish.com/pronounce/api/english?)&nbsp;&nbsp;[:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/api)&nbsp;&nbsp;[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/api)&nbsp;&nbsp;[:blue_book:Longman](https://www.ldoceonline.com/dictionary/api) | - an acronym for "Application Programming Interface" |

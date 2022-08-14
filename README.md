@@ -46,19 +46,19 @@ materials and remember the right pronunciation. In this case, I would like to su
 </dd>
 <ul>
 <li>
-a dictionary with vocalization (for example, <a href="https://dictionary.cambridge.org/us/dictionary/english/ai">Cambridge Dictionary</a>)
-<p align="center">
-<a href="https://dictionary.cambridge.org/us/dictionary/english/ai"><img src="https://user-images.githubusercontent.com/15892462/183303994-a989e0a8-9698-4a23-95c7-fde5f3dc4769.png" alt="Cambridge Dictionary" /></a>
-<small>audio icons are interactive and allow you to listen to the pronunciation of a word in different accents</small>
-</p>
-</li>
-<li>
 a deep search through videos' subtitles (for example, <a href="https://youglish.com/pronounce/AI/english">Youglish service</a>)
 <p align="center">
 <a href="https://youglish.com/pronounce/AI/english"><img src="https://user-images.githubusercontent.com/15892462/183304058-dbe9d1e4-247d-4801-8f2d-e7c218b65293.png" alt="Youglish" /></a>
 <small>language icons below the search form allow you to filter videos by a specific accent</small>
 </p>
 The important thing here is - that a service should have the possibility to select a specific accent.
+</li>
+<li>
+a dictionary with vocalization (for example, <a href="https://dictionary.cambridge.org/us/dictionary/english/ai">Cambridge Dictionary</a>)
+<p align="center">
+<a href="https://dictionary.cambridge.org/us/dictionary/english/ai"><img src="https://user-images.githubusercontent.com/15892462/183303994-a989e0a8-9698-4a23-95c7-fde5f3dc4769.png" alt="Cambridge Dictionary" /></a>
+<small>audio icons are interactive and allow you to listen to the pronunciation of a word in different accents</small>
+</p>
 </li>
 </ul>
 </dl>

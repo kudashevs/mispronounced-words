@@ -64,6 +64,19 @@ a dictionary with vocalization (for example, <a href="https://dictionary.cambrid
 </dl>
 </details>
 
+
+## How to read IPA
+
+Even if you know IPA well, let's do a little recap of some IPA symbols. Just to be sure that we are on the same page.
+```
+ˈ - primary stress 
+ˌ - secondary stress
+. - syllable break
+ː - long sound
+ᵊ - epenthetic schwa
+ʳ - potential R
+```
+
 ## How to use this list
 
 The list includes a word, a transcription of the word, links to video and audio materials, and comments. If you are

@@ -77,6 +77,15 @@ Even if you know IPA well, let's do a little recap of some IPA symbols. Just to 
 ʳ - potential R
 ```
 
+As an example let's examine the word `programmer`.
+```
+us /ˈproʊ.ɡræm.ɚ/ uk /ˈprəʊ.ɡræm.əʳ/
+```
+
+As we can see, the word has three syllables. The primary/main stress falls on the first syllable. At the end of the word
+we have the R sound (In American English R is always pronounced, so we can see /ɚ/ symbol; In British English R can
+be pronounced or mute, depending on the situation, so we can see /ʳ/ symbol, which means the `potential R`).
+
 ## How to use this list
 
 The list includes a word, a transcription of the word, links to video and audio materials, and comments. If you are

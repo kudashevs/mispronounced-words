@@ -69,12 +69,12 @@ a dictionary with vocalization (for example, <a href="https://dictionary.cambrid
 
 Even if you know IPA well, let's do a little recap of some IPA symbols. Just to be sure that we are on the same page.
 ```
-ˈ - primary stress 
-ˌ - secondary stress
-. - syllable break
-ː - long sound
-ᵊ - epenthetic schwa
-ʳ - potential R
+ˈ - primary stress (it means the clear vowel pronunciation with high pitch)
+ˌ - secondary stress (it means the clear vowel pronunciation with high pitch)
+. - syllable break (it separates a word in parts)
+ː - long sound (it indicates vowel length)
+ᵊ - epenthetic schwa (ə is pronounced or mute)
+ʳ - potential R (r is pronounced or mute)
 ```
 
 As an example let's examine the word `programmer`.

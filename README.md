@@ -84,7 +84,7 @@ us /ˈproʊ.ɡræm.ɚ/ uk /ˈprəʊ.ɡræm.əʳ/
 
 As we can see, the word has three syllables. The primary/main stress falls on the first syllable. After the first syllable,
 there is a syllable break. Then, there is another syllable and another break. At the end of the word there is the /r/ sound
-(In American English R is always pronounced, so we can see /ɚ/ symbol; In British English R can be pronounced or mute,
+(In American English R is always pronounced, so we can see the /ɚ/ symbol; In British English R can be pronounced or mute,
 depending on the situation, so we can see the /ʳ/ symbol which means the `potential R`).
 
 ## How to use this list

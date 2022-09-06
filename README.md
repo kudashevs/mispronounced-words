@@ -99,7 +99,7 @@ with audio samples.
 
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) J [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) Y Z
 
-| Word | Transcription | Video/Audio materials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Comment |
+| Word&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Transcription | Video/Audio materials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Comment |
 | ---- | ------------- | --------------------------------------------------------------------------------------------------------- | ------- |
 | <a id="A"></a> abstract (noun) | us /ˈæb.strækt/<br>uk /ˈæb.strækt/ | [:tv:YouGlish](https://youglish.com/pronounce/abstract%3An/english?)&nbsp;&nbsp;[:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/abstract)&nbsp;&nbsp;[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/abstract_2)&nbsp;&nbsp;[:blue_book:Longman](https://www.ldoceonline.com/dictionary/abstract) | - be careful of the difference in pronunciation between noun and verb forms |
 | abstract (verb) | us /æbˈstrækt/<br>uk /æbˈstrækt/ | [:tv:YouGlish](https://youglish.com/pronounce/abstract%3Av/english?)&nbsp;&nbsp;[:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/abstract)&nbsp;&nbsp;[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/abstract_3)&nbsp;&nbsp;[:blue_book:Longman](https://www.ldoceonline.com/dictionary/abstract) | - be careful of the difference in pronunciation between noun and verb forms |

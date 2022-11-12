@@ -73,6 +73,7 @@ Even if you know IPA well, let's do a little recap of some IPA symbols. Just to 
 ˌ - secondary stress (it means the clear vowel pronunciation with high pitch)
 . - syllable break (it separates a word in parts)
 ː - long sound (it indicates vowel length)
+ɚ - r-colored schwa (a schwa with a slight /r/ sound)
 ᵊ - epenthetic schwa (/ə/ is pronounced or mute)
 ʳ - potential R (/r/ is pronounced or mute)
 ```

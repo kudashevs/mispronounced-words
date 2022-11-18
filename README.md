@@ -15,9 +15,9 @@ it is spelled. This is where IPA comes into play because it was created exactly 
 <dd>
 <p></p>
 <p>
-It is important to understand that we are interested only in English IPA. A good starting point might be to find an
+It is important to understand that we are interested only in the English IPA. A good starting point might be to find an
 English phonemic chart. Phonemic charts can be interactive or non-interactive. It can be a picture, a document, an app -
-it's not really important. The important thing here is that the chart should be divided into three blocks: consonants,
+it doesn't really matter. The important thing here is that the chart should be divided into three blocks: consonants,
 vowels, diphthongs. In my experience, it is easier to learn the sounds in groups.
 </p>
 <p align="center">

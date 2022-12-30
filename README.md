@@ -37,9 +37,12 @@ You can find a good step-by-step article on how to learn and practice IPA on <a 
 <dd>
 <p></p>
 <p>
-Fair enough. However, you will have to put in more effort to find and remember the right pronunciation. So, if you don't
-want to learn IPA the only way to find the right pronunciation is to use audio and video materials. Listen to these
-materials and remember the right pronunciation. In this case, I would like to suggest using:
+Fair enough. However, you will have to put more effort to find the right pronunciation. If you are not up to learn the IPA,
+the only way to find out the correct pronunciation is to search for audiovisual materials with the word you need. Then listen
+to these materials and remember the pronunciation. In the long term, it is going to be far longer than just learn the IPA once.
+</p>
+<p>
+If I still haven't convinced you, in this case I would like to suggest using:
 </p>
 </dd>
 <ul>

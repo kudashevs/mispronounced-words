@@ -93,9 +93,9 @@ be pronounced or mute, depending on the situation, so we can see the /ʳ/ symbol
 
 The list includes a word, a transcription of the word, links to video and audio materials, and comments. If you are
 confident with the IPA, it may be enough for you to just read the transcription of the word. If you are not familiar
-with IPA, just use the Video/Audio materials column. In these interactive materials, you will find a link to youglish.com
-(a tool that helps to find the pronunciation of a certain word in YouTube videos) and links to various dictionaries
-with audio samples.
+with the IPA, you can use the Video/Audio materials column. Just follow the links listed in this column and listen to
+the audio materials. I would recommend using `youglish.com` which is a service that helps find the pronunciation of
+a certain word in YouTube videos. Besides YouGlish, there are links to various dictionaries with audio samples.
 
 ## List of words
 

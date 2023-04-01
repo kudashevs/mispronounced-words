@@ -24,7 +24,7 @@ vowels, diphthongs. In my experience, it is easier to learn the sounds in groups
 <a href="https://www.teachingenglish.org.uk/article/phonemic-chart"><img src="https://user-images.githubusercontent.com/15892462/183292223-40400df7-1cbe-4a90-b521-dabd6f67c777.png" alt="English phonemic chart" /></a>
 </p>
 <p>
-After you are comfortable with the sounds and their visual representations, it is a good idea to do some practice.
+After you feel comfortable with the sounds and their visual representations, it is a good idea to do some practice.
 You can find a good step-by-step article on how to learn and practice IPA on <a href="https://www.wikihow.com/Learn-the-International-Phonetic-Alphabet-IPA">wikihow.com</a>.
 </p>
 </dd>

@@ -65,7 +65,6 @@ a dictionary with vocalization (for example, <a href="https://dictionary.cambrid
 </dl>
 </details>
 
-
 ## How to read IPA
 
 Even if you know IPA well, let's do a little recap of some IPA symbols. Just to be sure that we are on the same page.

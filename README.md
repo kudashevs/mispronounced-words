@@ -88,7 +88,7 @@ there is a syllable break. Then, there is another syllable and another break. At
 (In American English the /r/ sound is always pronounced, so we can see the /ɚ/ symbol; In British English the /r/ sound can
 be pronounced or mute, depending on the situation, so we can see the /ʳ/ symbol which means the `potential R`).
 
-## How to use this list
+## How to use the list
 
 The list includes a word, a transcription of the word, links to video and audio materials, and comments. If you are
 confident with the IPA, it may be enough for you to just read the transcription of the word. If you are not familiar

@@ -107,7 +107,7 @@ a certain word in YouTube videos. Besides YouGlish, there are links to various d
 
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) Y [Z](#Z)
 
-| Word&nbsp; | Transcription | &nbsp;&nbsp;&nbsp;Video/Audio&nbsp;materials&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;Comment |
+| Word&nbsp; | Transcription | &nbsp;&nbsp;&nbsp;Video&nbsp;/&nbsp;Audio&nbsp;materials&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;Comment |
 | ---- | ------------- | -------------------------------------------------------------------------------------------------------- | ---------- |
 | <a id="A"></a> abstract (noun) | us /ˈæb.strækt/<br>uk /ˈæb.strækt/ | [:tv:YouGlish](https://youglish.com/pronounce/abstract%3An/english?) &nbsp; [:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/abstract)<br>[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/abstract_2) &nbsp; [:blue_book:Longman](https://www.ldoceonline.com/dictionary/abstract) | - be careful of the difference in pronunciation between noun and verb forms |
 | abstract (verb) | us /æbˈstrækt/<br>uk /æbˈstrækt/ | [:tv:YouGlish](https://youglish.com/pronounce/abstract%3Av/english?) &nbsp; [:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/abstract)<br>[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/abstract_3) &nbsp; [:blue_book:Longman](https://www.ldoceonline.com/dictionary/abstract) | - be careful of the difference in pronunciation between noun and verb forms |

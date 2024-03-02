@@ -5,8 +5,8 @@ A collection of commonly mispronounced words related to programming, development
 ## Table of contents
 
 - [Prerequisites](#prerequisites)
-- [How to use this list](#how-to-use-the-list)
-- [The list of mispronounced words](#list-of-words)
+- [How to use this collection](#how-to-use-the-list)
+- [The collection of words](#list-of-words)
 
 ## Prerequisites
 

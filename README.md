@@ -4,12 +4,12 @@ A collection of commonly mispronounced words related to programming, development
 
 ## Table of contents
 
-- [Required knowledge](#required-knowledge)
+- [Prerequisites](#prerequisites)
 - [How to read a transcription](#how-to-read-ipa)
 - [How to use this collection](#how-to-use-the-list)
 - [The list of words](#list-of-words)
 
-## Required knowledge
+## Prerequisites
 
 To feel comfortable with this list it is recommended to know IPA. IPA stands for [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 English is not a phonetic language. In phonetic languages there is a direct relationship between the spelling of a word

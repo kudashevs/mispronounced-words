@@ -5,7 +5,7 @@ A collection of commonly mispronounced words related to programming, development
 ## Table of contents
 
 - [Prerequisites](#prerequisites)
-- [How to use this collection](#how-to-use-the-list)
+- [How to use this collection](#how-to-use-this-list)
 - [The collection of words](#list-of-words)
 
 ## Prerequisites
@@ -104,7 +104,7 @@ can be pronounced or not, depending on the dialect, so we can see the /ʳ/ symbo
 </dl>
 </details>
 
-## How to use the list
+## How to use this list
 
 The list includes a word, a transcription of the word, links to video and audio materials, and comments. If you are
 confident with the IPA, it may be enough for you to just read the transcription of the word. If you are not familiar

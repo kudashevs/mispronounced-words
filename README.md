@@ -90,10 +90,10 @@ As an example let's examine the word `programmer`.
 us /ˈproʊ.ɡræm.ɚ/ uk /ˈprəʊ.ɡræm.əʳ/
 ```
 
-As we can see, the word has three syllables. The primary/main stress falls on the first syllable. After the first syllable,
-there is a syllable break. Then, there is another syllable and another break. At the end of the word there is an /r/ sound
+As we can see, this word has three syllables. The primary/main stress falls on the first syllable. After the first syllable,
+there is a syllable break /./, followed by another syllable and another break. At the end of the word there is an /r/ sound
 (In American English the /r/ sound is always pronounced, so we can see the /ɚ/ symbol; In British English the /r/ sound can
-be pronounced or mute, depending on the situation, so we can see the /ʳ/ symbol which means the `potential R`).
+be pronounced or not, depending on the dialect, so we can see the /ʳ/ symbol which means a `potential R`).
 
 ## How to use the list
 

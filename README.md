@@ -6,7 +6,7 @@ A collection of commonly mispronounced words related to programming, development
 
 - [Prerequisites](#prerequisites)
 - [How to use this collection](#how-to-use-this-list)
-- [The collection of words](#list-of-words)
+- [The collection of words](#the-list-of-words)
 
 ## Prerequisites
 
@@ -112,7 +112,7 @@ with the IPA, you can use the Video/Audio materials column. Just follow the link
 the audio materials. I would recommend using `youglish.com` which is a service that helps find the pronunciation of
 a certain word in YouTube videos. Besides YouGlish, there are links to various dictionaries with audio samples.
 
-## List of words
+## The list of words
 
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) Y [Z](#Z)
 

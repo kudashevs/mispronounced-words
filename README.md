@@ -5,9 +5,8 @@ A collection of commonly mispronounced words related to programming, development
 ## Table of contents
 
 - [Prerequisites](#prerequisites)
-- [How to read a transcription](#how-to-read-ipa)
-- [How to use this collection](#how-to-use-the-list)
-- [The list of words](#list-of-words)
+- [How to use this list](#how-to-use-the-list)
+- [The list of mispronounced words](#list-of-words)
 
 ## Prerequisites
 
@@ -72,28 +71,38 @@ a dictionary with vocalization (for example, <a href="https://dictionary.cambrid
 </dl>
 </details>
 
-## How to read IPA
-
-Even if you know IPA well, let's do a little recap of some IPA symbols. Just to be sure that we are on the same page.
-```
-ˈ - primary stress (it means the clear vowel pronunciation with high pitch)
+<details>
+<summary><b style="font-size:1.325em;">I want a small refresh</b></summary>
+<dl>
+<dd>
+<p></p>
+<p>
+Let's do a small refresh of some IPA symbols. Just to be sure that we are on the same page.
+</p>
+<div class="notranslate position-relative overflow-auto">
+<pre class="notranslate"><code>ˈ - primary stress (it means the clear vowel pronunciation with high pitch)
 ˌ - secondary stress (it means the clear vowel pronunciation with high pitch)
 . - syllable break (it separates a word in parts)
 ː - long sound (it indicates vowel length)
 ɚ - r-colored schwa (a schwa with a slight /r/ sound)
 ᵊ - epenthetic schwa (/ə/ is pronounced or mute)
-ʳ - potential R (/r/ is pronounced or mute)
-```
-
-As an example let's examine the word `programmer`.
-```
-us /ˈproʊ.ɡræm.ɚ/ uk /ˈprəʊ.ɡræm.əʳ/
-```
-
+ʳ - potential R (/r/ is pronounced or mute)</code></pre>
+</div>
+<p>
+As an example let's examine the word <code>programmer</code>.
+</p>
+<div class="notranslate position-relative overflow-auto">
+    <pre class="notranslate"><code>us /ˈproʊ.ɡræm.ɚ/ uk /ˈprəʊ.ɡræm.əʳ/</code></pre>
+</div>
+<p>
 As we can see, this word has three syllables. The primary/main stress falls on the first syllable. After the first syllable,
-there is a syllable break /./, followed by another syllable and another break. At the end of the word there is an /r/ sound
-(In American English the /r/ sound is always pronounced, so we can see the /ɚ/ symbol; In British English the /r/ sound can
-be pronounced or not, depending on the dialect, so we can see the /ʳ/ symbol which means a `potential R`).
+there is a syllable break, followed by another syllable and another break. At the end of the word there is an /r/ sound
+(In American English the /r/ sound is always pronounced, so we can see the /ɚ/ symbol; In British English the /r/ sound
+can be pronounced or not, depending on the dialect, so we can see the /ʳ/ symbol which stands for a <code>potential R</code>).
+</p>
+</dd>
+</dl>
+</details>
 
 ## How to use the list
 

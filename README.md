@@ -1,4 +1,4 @@
-# Commonly mispronounced programming/development/tech words
+# Commonly mispronounced programming words
 
 This is a collection of commonly mispronounced words related to programming, development, tech, and IT. You can also
 check out my collection of mispronounced words. My [personal collection](https://github.com/kudashevs/mispronounced-words-full)

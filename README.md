@@ -1,8 +1,8 @@
 # Commonly mispronounced programming/development/tech words
 
 This is a collection of commonly mispronounced words related to programming, development, tech, and IT. You can also
-check out my collection of mispronounced words. My personal collection is bigger and contains some additional materials
-and explanations on how to read transcriptions and improve pronunciation.
+check out my collection of mispronounced words. My [personal collection](https://github.com/kudashevs/mispronounced-words-full)
+is bigger and contains some additional materials and explanations on how to read transcriptions and improve pronunciation.
 
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) Y [Z](#Z)
 
